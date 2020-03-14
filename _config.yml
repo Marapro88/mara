@@ -1,0 +1,22 @@
+title:              "프로이직러 Mara의 마케팅이야기"
+tagline:            "인도핀테크기업 퍼포먼스마케터"
+email:              "somikim1127@naver.com"
+description:        "리서치 회사, 애드 네트워크, 디지털 대행사를 거쳐서 인도 핀테크 스타트업 Performance Marketer로 재직 중입니다. 마케팅에 대해서 이야기합니다."
+author:             "Mara"
+baseurl:            "/"
+url:                "https://mara.kim"
+locale:             "ko_KR"
+thumbnail:          "/img/00_Thumnail.png"
+
+# Social Profiles
+linkedin_username:  somi-kim-884bb1b7
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
