@@ -17,7 +17,8 @@ description: 'Segments 기능 활용해서 도달가능 유저 확인하는 꿀�
 ---
 
 안녕하세요~! 
-프로이직러 Mara입니다.
+
+프로이직러 Mara입니다.🐳
 
 입사 첫날, Mara가 하게 된 업무는 Braze를 통해서 Push Message를 보낸 것이었습니다. 첫날이어서 정신이 없는데 처음 보는 마케팅 툴을 다루려니 식은땀이 나더라고요. Mara처럼 Braze를 처음 접하는 마케터가 참고하실 수 있도록 핵심적이고 유용한 내용 위주로 작성해볼게요.
 
@@ -83,4 +84,5 @@ User Import를 정상적으로 실행하기 위한 몇 가지 주의사항이 �
 위 순서대로 Segment기능을 활용해서 User import를 통해 생성한 Segment를 모수로 두고 Push enabled is true, Has not uninstalled 두 가지 조건을 차례로 걸면 Reachable User와의 gap을 확인할 수 있습니다. 이번 글에서는 braze가 무엇인지, 메시지를 받을 Target user를 정의하는 Segment를 어떻게 생성하는지에 대해 알아봤습니다.
 
 다음 글에서는 braze를 통해서 캠페인을 생성하는 방법을 알아볼게요! 
+
 오늘도 칼퇴하세요 ~!😀

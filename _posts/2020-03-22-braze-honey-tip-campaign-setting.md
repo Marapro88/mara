@@ -17,6 +17,7 @@ description: 'Braze 활용해서 서비스 유저에게 Push/In-app message보�
 ---
 
 안녕하세요~!
+
 프로이직러 Mara입니다. 🐳
 
 이전 글에서는 우리 제품을 마케팅하고 싶은 대상인 Target user를 생성해봤습니다. 이제 Target user를 대상으로 마케팅 메시지를 전달하기 위해서 캠페인을 설정하는 방법에 대해서 알아볼게요. Braze에서는 보낼 수 있는 메시지 종류가 여러 가지 있지만 Mara가 주로 사용한 Push를 세팅하는 방법을 다뤄보겠습니다. 
@@ -28,7 +29,8 @@ description: 'Braze 활용해서 서비스 유저에게 Push/In-app message보�
 Push는 모바일 잠금 화면 또는 알림 센터에 발송되는 메시지를 말합니다. 
 
 ![이미지3](/img/posts/03/03.png)
- In-app message는 서비스 앱 내에서 서비스 이용 중에 발송되는 메시지로 Braze에서는 3가지 type의 In-app message를 제공하고 있습니다.
+
+In-app message는 서비스 앱 내에서 서비스 이용 중에 발송되는 메시지로 Braze에서는 3가지 type의 In-app message를 제공하고 있습니다.
 
 ![이미지4](/img/posts/03/04.png) 
 
@@ -36,7 +38,7 @@ SMS와 Push & In-app message를 비교해서 장점을 살펴본 아래 글도 �
 
 [푸시 메시지의 장점](https://blog.sendbird.com/ko/sms와-차별화되는-인앱-메시징과-푸시-알림의-중요성/)
 
- **Campaign 세팅하기** 
+**Campaign 세팅하기** 
 
 ![이미지5](/img/posts/03/05.png)
 
@@ -56,9 +58,7 @@ Step 1. Create new campaign
 4. Push Title/Message 입력하기
 5. User customized 메시지 입력을 위해 +버튼 누르기
 
-
-
-## 꿀팁 1.
+**꿀팁1**
 
 ![이미지7](/img/posts/03/07.png)
 
@@ -116,7 +116,7 @@ o  Preview
 
 Delivery control은 정기적으로 반복되는 메시지를 세팅한 경우 수신 자수를 컨트롤하는 기능입니다.  
 
-## 꿀팁 2.
+**꿀팁2**
 
  ‘Allow users to become re-eligible to receive campaign’을 1 day로 세팅해두면메시지를 수신한 이후 1일 경과후 다시 메시지 수신 대상자가 되는 것을 의미합니다. 만약 매일 발송되는 푸쉬 메시지를 예약해두고 re-eligible을 설정하지 않거나 발송 주기보다 re-eligible period를 1일 이상으로 설정 해두면 유저가 매일 메시지를 받아볼 수 없으므로 발송하고자 하는 주기에 맞게 re-eligible기간을 설정해주세요.
 
