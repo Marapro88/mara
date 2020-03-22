@@ -6,7 +6,8 @@ author:             "Mara"
 baseurl:            "/"
 url:                "https://mara.kim"
 locale:             "ko_KR"
-thumbnail:          "/img/00_Thumnail.png"
+thumbnail:          "/img/posts/00/00_Thumnail.png"
+# cover:              "/img/posts/00/00_Main.png"
 
 # Social Profiles
 linkedin_username:  somi-kim-884bb1b7
@@ -20,3 +21,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+# 블로그 disqus shortname
+disqus:
+  shortname: mara-kim

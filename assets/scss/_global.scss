@@ -1,11 +1,12 @@
 // 아래에 폰트를 불러오는 코드를 넣어주세요.
-
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700&display=swap');
 // Global styling for this template
 body {
   font-size: 20px;
   color: $gray-900;
-  font-family: sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
 }
+
 
 p {
   line-height: 1.5;
