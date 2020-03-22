@@ -3,7 +3,7 @@ layout: post
 permalink: /braze-honey-tip-campaign-setting/
 title: 'Braze 사용 꿀팁 2_Campaign 생성하기 '
 date: 2020-03-22 14:00:00 +09:00
-feature: '/img/posts/03/02_Thumnail.png'
+feature: '/img/posts/03/02_Thumnail.jpg'
 background: '/img/posts/03/01_Back.jpg'
 categories:
   - marketing
@@ -16,8 +16,6 @@ tags:
 description: 'Braze 활용해서 서비스 유저에게 Push/In-app message보내는 방법'
 ---
 
- 
-
 안녕하세요~!
 프로이직러 Mara입니다. 🐳
 
@@ -26,8 +24,6 @@ description: 'Braze 활용해서 서비스 유저에게 Push/In-app message보�
 우선 글을 시작하기에 앞서서 Push 와 In-app message가 무엇인지 살펴볼게요. 
 
 ![이미지1](/img/posts/03/01.png)
-
-![이미지2](/img/posts/03/02.png)
 
 Push는 모바일 잠금 화면 또는 알림 센터에 발송되는 메시지를 말합니다. 
 
@@ -103,7 +99,7 @@ o  Preview
 
 ![이미지10](/img/posts/03/10.png)
 
- 메시지 발송 시점은 주로 2가지를 사용합니다. (API-Triggered Delivery는 안 써봤음-_-)
+메시지 발송 시점은 주로 2가지를 사용합니다. (API-Triggered Delivery는 안 써봤음-_-)
 
 1. Scheduled Delivery
 
@@ -118,12 +114,12 @@ o  Preview
    유저가 특정 행동을 행한 시점에 메시지를 발송할 수 있는 기능입니다. 
    구매한 직후, 앱을 연 시점에서 5초 경과 후, Target user를 목적으로 만든 CE 이벤트 등을 활용할 수 있습니다. 
 
-![이미지11](/img/posts/03/11.png) 
-
 Delivery control은 정기적으로 반복되는 메시지를 세팅한 경우 수신 자수를 컨트롤하는 기능입니다.  
 
 ## 꿀팁 2.
 
  ‘Allow users to become re-eligible to receive campaign’을 1 day로 세팅해두면메시지를 수신한 이후 1일 경과후 다시 메시지 수신 대상자가 되는 것을 의미합니다. 만약 매일 발송되는 푸쉬 메시지를 예약해두고 re-eligible을 설정하지 않거나 발송 주기보다 re-eligible period를 1일 이상으로 설정 해두면 유저가 매일 메시지를 받아볼 수 없으므로 발송하고자 하는 주기에 맞게 re-eligible기간을 설정해주세요.
+
+![이미지11](/img/posts/03/11.png) 
 
  오늘도 칼퇴하세요 ~! 😀
