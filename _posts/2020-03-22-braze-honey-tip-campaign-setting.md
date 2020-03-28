@@ -60,7 +60,7 @@ Step 1. Create new campaign
 
 **꿀팁1**
 
-![이미지7](/img/posts/03/07.png)
+![이미지7](/img/posts/03/07.PNG)
 
 메시지 입력창에서 “+”버튼을 누르고 들어가면 메시지를 개인화할 수 있는 창이 나옵니다. 이 기능을 사용하면 사내 DB에 저장되고 있는 유저의 정보를 활용해서 개인에게 맞춤화된 메시지를 발송할 수 있습니다.
 
@@ -83,7 +83,7 @@ o  Preview
  이미지 삽입하기 
  \1. 이미지를 삽입할 때 유의할 점은 메시지 type에 따라서 권장하는 이미지 spec이 있습니다. 권고 스펙은 이미지 삽입하는 pop-up창에서 안내해주고요, Push의 경우는 2:1 ratio를 반드시 지켜야만 올릴 수 있습니다. 2:1 비율이 아닌 이미지도 ‘Only images with a 2:1 aspect ratio.’ 체크박스를 해제하면 화면에 display는 되지만 최종 삽입은 되지 않습니다. 
 
- ![이미지9](/img/posts/03/09.png)
+ ![이미지9](/img/posts/03/09.PNG)
 
 1.  On click behavior 
     유저가 푸시 메시지를 클릭했을 때 일어나는 행동을 지정해줍니다. 
@@ -97,7 +97,7 @@ o  Preview
 
  Step 3. Delivery 
 
-![이미지10](/img/posts/03/10.png)
+![이미지10](/img/posts/03/10.PNG)
 
 메시지 발송 시점은 주로 2가지를 사용합니다. (API-Triggered Delivery는 안 써봤음-_-)
 
