@@ -18,9 +18,7 @@ permalink:          /:title
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
-  - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap
 # 블로그 disqus shortname
 disqus:
   shortname: mara-kim
