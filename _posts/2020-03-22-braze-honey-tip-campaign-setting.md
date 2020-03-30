@@ -22,6 +22,7 @@ description: 'Braze 활용해서 서비스 유저에게 Push/In-app message보�
 
 이전 글에서는 우리 제품을 마케팅하고 싶은 대상인 Target user를 생성해봤습니다. 이제 Target user를 대상으로 마케팅 메시지를 전달하기 위해서 캠페인을 설정하는 방법에 대해서 알아볼게요. Braze에서는 보낼 수 있는 메시지 종류가 여러 가지 있지만 Mara가 주로 사용한 Push를 세팅하는 방법을 다뤄보겠습니다. 
 
+## Push vs In-app message
 우선 글을 시작하기에 앞서서 Push 와 In-app message가 무엇인지 살펴볼게요. 
 
 ![이미지1](/img/posts/03/01.png)
@@ -38,7 +39,7 @@ SMS와 Push & In-app message를 비교해서 장점을 살펴본 아래 글도 �
 
 [푸시 메시지의 장점](https://blog.sendbird.com/ko/sms와-차별화되는-인앱-메시징과-푸시-알림의-중요성/)
 
-**Campaign 세팅하기** 
+## Campaign 세팅하기 
 
 ![이미지5](/img/posts/03/05.png)
 
@@ -58,7 +59,7 @@ Step 1. Create new campaign
 4. Push Title/Message 입력하기
 5. User customized 메시지 입력을 위해 +버튼 누르기
 
-**꿀팁1**
+## 꿀팁1
 
 ![이미지7](/img/posts/03/07.PNG)
 
@@ -81,7 +82,8 @@ o  Preview
 ![이미지8](/img/posts/03/08.png)
 
  이미지 삽입하기 
- \1. 이미지를 삽입할 때 유의할 점은 메시지 type에 따라서 권장하는 이미지 spec이 있습니다. 권고 스펙은 이미지 삽입하는 pop-up창에서 안내해주고요, Push의 경우는 2:1 ratio를 반드시 지켜야만 올릴 수 있습니다. 2:1 비율이 아닌 이미지도 ‘Only images with a 2:1 aspect ratio.’ 체크박스를 해제하면 화면에 display는 되지만 최종 삽입은 되지 않습니다. 
+
+1. 이미지를 삽입할 때 유의할 점은 메시지 type에 따라서 권장하는 이미지 spec이 있습니다. 권고 스펙은 이미지 삽입하는 pop-up창에서 안내해주고요, Push의 경우는 2:1 ratio를 반드시 지켜야만 올릴 수 있습니다. 2:1 비율이 아닌 이미지도 ‘Only images with a 2:1 aspect ratio.’ 체크박스를 해제하면 화면에 display는 되지만 최종 삽입은 되지 않습니다. 
 
  ![이미지9](/img/posts/03/09.PNG)
 
@@ -116,7 +118,7 @@ o  Preview
 
 Delivery control은 정기적으로 반복되는 메시지를 세팅한 경우 수신 자수를 컨트롤하는 기능입니다.  
 
-**꿀팁2**
+## 꿀팁2
 
  ‘Allow users to become re-eligible to receive campaign’을 1 day로 세팅해두면메시지를 수신한 이후 1일 경과후 다시 메시지 수신 대상자가 되는 것을 의미합니다. 만약 매일 발송되는 푸쉬 메시지를 예약해두고 re-eligible을 설정하지 않거나 발송 주기보다 re-eligible period를 1일 이상으로 설정 해두면 유저가 매일 메시지를 받아볼 수 없으므로 발송하고자 하는 주기에 맞게 re-eligible기간을 설정해주세요.
 
