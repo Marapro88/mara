@@ -83,6 +83,8 @@ Bounce rate: 실패한 총 메시지 수입니다. 유효한 푸시 토큰이 �
 
 [Repoort Metrics Glorssary바로가기](https://www.braze.com/docs/user_guide/data_and_analytics/report_metrics/)
 
+Braze에서는 친절하게 지표 용어집을 제공하고 있습니다. 필요한 측정 항목을 검색하거나 채널별로 필터링해서 사용해보세요.
+
 ## 데이터 해석
 
 Braze 메시지 성과를 분석할 때는 Primary conversions를 sent, open, direct oepn 수치들을 참고하면서 효과를 측정합니다. 지표를 먼저 확인하고 가장 우수한 퍼포먼스를 보인 메시지는 무엇이었고 왜 이 메시지가 좋을 성과를 냈는지 발송 단계에서 세웠던 가설들을 검증해보는 거죠. 이런 식으로 몇 번의 A/B Test를 거치면 메시지 calibration목적으로 사용할 수 있습니다.  
