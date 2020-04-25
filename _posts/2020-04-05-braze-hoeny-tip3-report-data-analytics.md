@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /braze-honey-tip3-report-data-analytics/
-title: Braze 사용 꿀팁 3_성과측정(리포트 사용꿀팁)'
+title: 'Braze 사용 꿀팁 3_성과측정(리포트 사용꿀팁)'
 date: 2020-04-05 12:00:00 +09:00
 feature: '/img/posts/04/02_Thumnail.jpg'
 background: '/img/posts/04/01_Back.jpg'
@@ -20,7 +20,7 @@ description: 'Braze Push/In-app message메시지 데이터 해석 및 Report 설
 프로이직러 Mara입니다. 🐳
 
 이전 글에서는 우리 고객인 Target user에게 개인화된 마케팅 메시지를 전달하기 위해 캠페인을 생성해봤습니다. 그럼 메시지의 성과가 좋았는지 나빴는지 측정해봐야겠죠?
-오늘은 성과측정을 위한 Report 설정 방법과 데이터 해석에 대해서 알아보겠습니다. 
+오늘은 성과측정을 위한 Report 설정 방법과 데이터 해석에 대해서 알아보겠습니다.
 
 ![이미지1](/img/posts/04/01.png)
 
@@ -28,12 +28,12 @@ Campaigns에서 성과측정을 원하는 캠페인을 클릭합니다.
 
 ![이미지2](/img/posts/04/02.png)
 
-클릭하고 들어가면 제일 먼저 이런 화면을 만나게 됩니다. 하나씩 살펴볼게요. 
-### 1.Report 기간 설정 
+클릭하고 들어가면 제일 먼저 이런 화면을 만나게 됩니다. 하나씩 살펴볼게요.
+### 1.Report 기간 설정
 Report 기간은 default로 처음 발송일부터 오늘까지로 설정되어 있습니다. 기간을 바꾸고 싶으면 드롭다운 목록을 누르고 원하는 기간을 선택하면 됩니다. Custom range를 선택하면 직접 기간을 설정할 수 있습니다.
 ![이미지3](/img/posts/04/03.png)
 
-### 2. User Data 
+### 2. User Data
 
 내부 DB와 엮어서 데이터를 분석하려고 할 때 메시지 발송 대상 리스트가 필요합니다. 그 경우에는 CSV Export All Recipient Data를 선택하면 메시지 발송 대상자를 CSV 파일로 다운로드할 수 있습니다. 다만 500k 이상의 유저에게 발송된 경우에는 제공하지 않습니다.
 
@@ -73,7 +73,7 @@ Conversion rate: 전송된 메시지의 모든 수신자와 비교하여 정의�
 
 ![이미지4-1](/img/posts/04/0401.png)
 
-### Android Push Performance 
+### Android Push Performance
 
 1개의 캠페인에 여러 가지 메시지를 전달한 경우 각 메시지 별로 성과를 비교해볼 수 있는 영역입니다. 동일한 유저 대상으로 어떤 메시지 또는 creative가 가장 효과적이었는지 측정할 때 유용하게 쓰일 수 있습니다.
 
@@ -99,7 +99,7 @@ Braze 메시지 성과를 분석할 때는 Primary conversions를 sent, open, di
 
 ![이미지6](/img/posts/04/06.png)
 
-1.Manually select Campaigns and Canvases 
+1.Manually select Campaigns and Canvases
 디폴트 설정 값입니다. 직접 보고 싶은 캠페인을 고를 수 있다는 의미이니 그대도 사용하시면 됩니다.
 
 2.검색하고자 하는 키워드를 입력해서 성과를 측정하고 싶은 캠페인을 찾습니다.
@@ -112,7 +112,7 @@ Braze 메시지 성과를 분석할 때는 Primary conversions를 sent, open, di
 
 ![이미지7](/img/posts/04/07.png)
 
-아래로 내려가서 ‘Add stats’ 버튼을 stage로 넘어갑니다. 
+아래로 내려가서 ‘Add stats’ 버튼을 stage로 넘어갑니다.
 여기서 보고 싶은 측정 지표들을 선택할 수 있습니다.
 
 ![이미지8](/img/posts/04/08.png)
