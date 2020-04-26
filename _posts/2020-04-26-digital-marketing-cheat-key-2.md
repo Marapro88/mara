@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /digital-marketing-cheat-key-1/
+permalink: /digital-marketing-cheat-key-2/
 title: '[마케터치트키] 디지털 마케팅 공부에 도움 되는 사이트 총정리_2'
 date: 2020-04-25 12:00:00 +09:00
 feature: '/img/posts/06/02_Thumnail.jpg'
@@ -85,6 +85,7 @@ Key Performance Index 줄임말. 광고를 통해 달성하고 싶은 목표를 
 이를 보완하기 위해 출연한 설루션이 Postback과 Tracking url입니다. 결국 Postback은 광고주 데이터를 매체에 전달하기 위해서 Tracking url은 매체의 데이터를 광고주에게 전달하기 위해서 필요하다고 이해하시면 좋을 것 같습니다. 따라서 Postback url은 광고주(또는 어트리뷰션 툴) 쪽에서 발급해주고 Tracking url은 매체 쪽에서 광고주 측에 전달합니다. 
 
 [와이즈트래커-앱 어트리뷰션 가이드 - Postback 편](https://bit.ly/2VI04am)
+
 [오픈애즈-앱어트리뷰션 가이드 Tracking url 편](https://bit.ly/3eBbpSg)
 
 # 4. 어트리뷰션 툴을 통한 성과 측정
