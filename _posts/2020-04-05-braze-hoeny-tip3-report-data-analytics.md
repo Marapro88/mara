@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /braze-honey-tip3-report-data-analytics/
+permalink: /marketing-braze-honey-tip3-report-data-analytics/
 title: 'Braze 사용 꿀팁 3_성과측정(리포트 사용꿀팁)'
 date: 2020-04-05 12:00:00 +09:00
 feature: '/img/posts/04/02_Thumnail.jpg'
@@ -43,29 +43,17 @@ Report 기간은 default로 처음 발송일부터 오늘까지로 설정되어 
 
 캠페인 전체의 기본적인 성과를 확인할 수 있는 영역입니다.
 
-```
-Messages Sent: 조회 기간 동안의 메시지 총 sent 개수
-```
+<ol>Messages Sent: 조회 기간 동안의 메시지 총 sent 개수</ol>
 
-```
-Total Open Rate: (Direct opens+Influenced opens)/Messages Sent
-```
+<ol>Total Open Rate: (Direct opens+Influenced opens)/Messages Sent</ol>
 
-```
-Direct opens: 해당 푸시를 통해 직접 열린 푸시 알림의 총수
-```
+<ol>Direct opens: 해당 푸시를 통해 직접 열린 푸시 알림의 총수</ol>
 
-```
- Influenced opens: 푸시 알림을 전송한 후 푸시를 직접 열지 않고 앱을 연 총 사용자 수
-```
+<ol>Influenced opens: 푸시 알림을 전송한 후 푸시를 직접 열지 않고 앱을 연 총 사용자 수</ol>
 
-```
-Conversion rate: 전송된 메시지의 모든 수신자와 비교하여 정의된 이벤트가 발생한 비율. Conversion setting에서Event A(Primary)에 설정된 값을 사용.
-```
+<ol>Conversion rate: 전송된 메시지의 모든 수신자와 비교하여 정의된 이벤트가 발생한 비율. Conversion setting에서Event A(Primary)에 설정된 값을 사용.</ol>
 
-```
- Estimated Audience: Push 메시지를 받은 사용자 수. Braze추정 값.
-```
+<ol>Estimated Audience: Push 메시지를 받은 사용자 수. Braze추정 값.</ol>
 
 <h3>4.Setting(Delivery/Audience/Conversion)</h3>
 
@@ -117,7 +105,7 @@ Braze 메시지 성과를 분석할 때는 Primary conversions를 sent, open, di
 
 ![이미지8](/img/posts/04/08.png)
 
-리포트 배송과 관련된 정보를 입력합니다.
+리포트 발송과 관련된 정보를 입력합니다.
 
 1. 리포트 제목, 압축 여부, 전달받을 메일 주소를 입력합니다.
 
@@ -130,4 +118,5 @@ Braze 메시지 성과를 분석할 때는 Primary conversions를 sent, open, di
 5. Confirm 버튼을 눌러주면 발행 완료.
 
 Braze 잘 활용하셔서 유저에게 시의적절한 마케팅 메시지 전달하시기 바랍니다.
+
 오늘도 칼퇴하세요 ~! 😀

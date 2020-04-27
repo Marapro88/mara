@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /braze-honey-tip2-campaign-setting/
+permalink: /marketing-braze-honey-tip2-campaign-setting/
 title: 'Braze 사용 꿀팁 2_Campaign 생성하기 '
 date: 2020-03-22 14:00:00 +09:00
 feature: '/img/posts/03/02_Thumnail.jpg'

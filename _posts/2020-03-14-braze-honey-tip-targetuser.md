@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /braze-honeytip1-target-user/
+permalink: /marketing-braze-honeytip1-target-user/
 title: 'Braze 사용 꿀팁1_Target User 생성'
 date: 2020-03-14 10:30:00 +09:00
 feature: '/img/posts/02/02_Thumnail.png'
