@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /marketing-cheat-key-3/
-title: '[마케터치트키] 디지털 마케터를 위한 기초지식_3'
+title: '[마케터치트키]디지털 마케터를 위한 기초지식3'
 date: 2020-05-10 12:00:00 +09:00
 feature: '/img/posts/07/02_Thumnail.png'
 background: '/img/posts/07/01_Back.png'
