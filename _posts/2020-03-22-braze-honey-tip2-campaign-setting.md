@@ -41,7 +41,7 @@ description: 'Braze 활용해서 서비스 유저에게 Push/In-app message보�
 2. +Create campaign 클릭
 3. 발송하고자 하는 메시지 type선택
 
- ### Step2. Compose
+### Step2. Compose
 
 ![이미지6](/img/posts/03/06.png)
 
