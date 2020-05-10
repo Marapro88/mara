@@ -69,7 +69,7 @@ Software Development Kit의 줄임말로 앱을 동작시키기 위한 각종 �
 
 플랫폼에서 제공하는 카메라, 위치정보, 연락처 등 OS에서 기본적으로 제공하는 유틸리티 기능들과 상호 교환이 쉽게 이루어진다는 장점이 있습니다. 예를 들어 어떤 앱을 다운로드하고 나서 카메라 접근 허용 여부를 물을 때가 있죠? 네이티브 앱은 OS에서 제공하는 API를 통해서 카메라에 접근하는 기능을 구현했기 때문입니다. 하지만 단점도 존재합니다. 플랫폼 별로 각각의 언어로 개발이 되어야 하기 때문에 플랫폼에 종속되고 2번 개발해야 하는 등 개발에 많은 리소스가 필요합니다. 
 
-[Traversy Media | Mobile Apps- Web vs. Native vs. Hybrid](https://www.youtube.com/watch?v=ZikVtdopsfY)
+[Traversy Media - Mobile Apps- Web vs. Native vs. Hybrid](https://www.youtube.com/watch?v=ZikVtdopsfY)
 
 ## 크롬 개발자 도구(단축키 F12)
 
@@ -79,7 +79,7 @@ Software Development Kit의 줄임말로 앱을 동작시키기 위한 각종 �
 
 크롬 개발자 도구 화면에서 왼쪽 상단에 위치하는 '기기 모드'를 사용하면 페이지가 모바일 기기에서 어떻게 나타나고 작동하는지 시뮬레이션해볼 수 있습니다. 마케터는 모바일 광고가 기기별로 제대로 노출되는지, 이미지가 잘려 나오지는 않는지 등등을 간단하게 검토해볼 수 있습니다. 
 
-[녹두장군 | 구글 크롬 개발자 도구 사용법 및 새창으로 띄우는 방법]( https://mainia.tistory.com/2393 )
+[녹두장군 - 구글 크롬 개발자 도구 사용법 및 새창으로 띄우는 방법]( https://mainia.tistory.com/2393 )
 
 [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
 
