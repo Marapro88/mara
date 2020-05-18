@@ -1,5 +1,5 @@
 title:              "프로이직러 Mara"
-tagline:            "평생직장NO,평생직업YES! 연봉&커리어를 바꿀 경력관리법에 대해 이야기 합니다."
+tagline:            "평생직장NO,평생직업YES! 연봉&커리어를 바꿀 경력관리에 대해 이야기 합니다."
 email:              "somikim1127@naver.com"
 description:        "7년 동안 5개 회사에서 근무했습니다. 스타트업에서 마케팅을 하고 있습니다."
 author:             "Mara"
@@ -7,7 +7,7 @@ baseurl:            "/"
 url:                "https://mara.kim"
 locale:             "ko_KR"
 thumbnail:          "/img/posts/00/00_Thumnail.png"
-cover:              "/img/posts/00/00_Back.jpg"
+cover:              "/img/posts/00/00_Back.png"
 
 # Social Profiles
 linkedin_username:  somi-kim-884bb1b7
