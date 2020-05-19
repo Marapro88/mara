@@ -3,8 +3,8 @@ layout: post
 permalink: /balancehero-india-fintech-mara/
 title: '인도 핀테크 스타트업, 밸런스히어로 취직하기 '
 date: 2020-03-14 10:30:00 +09:00
-feature: '/img/posts/01/01_Thumnail.png'
-background: '/img/posts/01/01_Back.png'
+feature: '/img/posts/01/01_T.jpg'
+background: '/img/posts/01/01_Back.jpg'
 categories:
   - career
 tags:

@@ -3,8 +3,8 @@ layout: post
 permalink: /marketing-cheat-key-2/
 title: '[마케터치트키]디지털 마케터를 위한 기초지식2'
 date: 2020-04-25 12:00:00 +09:00
-feature: '/img/posts/06/02_Thumnail.png'
-background: '/img/posts/06/01_Back.png'
+feature: '/img/posts/06/02_Thumnail.jpg'
+background: '/img/posts/06/01_Back.jpg'
 categories:
   - marketing
 tags:
