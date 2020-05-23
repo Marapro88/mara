@@ -50,7 +50,7 @@ description: 'Braze 활용해서 서비스 유저에게 Push/In-app message보�
 4. Push Title/Message 입력하기
 5. User customized 메시지 입력을 위해 +버튼 누르기
 
-## 꿀팁1- 개인화 메시지 보내기 
+## 🍯Tip1- 개인화 메시지 보내기 
 
 ![이미지7](/img/posts/03/07.PNG)
 
@@ -113,7 +113,7 @@ description: 'Braze 활용해서 서비스 유저에게 Push/In-app message보�
    유저가 특정 행동을 행한 시점에 메시지를 발송할 수 있는 기능입니다. 
    구매한 직후, 앱을 연 시점에서 5초 경과 후, Target user를 목적으로 만든 CE 이벤트 등을 활용할 수 있습니다. 
 
-## 꿀팁2-메시지 반복 시점 정의하기 
+## 🍯Tip2-메시지 반복 시점 정의하기 
 
 
 Delivery 영역 제일 하단에 위치한 'Delivery control'은 정기적으로 반복되는 메시지를 세팅한 경우 수신 자수를 컨트롤하는 기능입니다. 여기서  ‘Allow users to become re-eligible to receive campaign’ 체크박스를 활성화 시킨 후 1 day로 세팅해두면 메시지를 수신한 이후 1일 경과 후 다시 메시지 수신 대상자가 된다는 의미입니다. 만약 매일 발송되는 푸쉬 메시지를 예약해두고 re-eligible을 설정하지 않거나 발송 주기보다 re-eligible period를 1일 이상으로 설정 해두면 유저가 매일 메시지를 받아볼 수 없으므로 발송하고자 하는 주기에 맞게 re-eligible기간을 설정 하는 것 잊지 말아주세요!

@@ -59,7 +59,7 @@ User Import를 정상적으로 실행하기 위한 몇 가지 주의사항이 �
 
 · braze_id 를 추출해서 올릴 것 (고객의 전화번호 또는 내부 DB에서 관리하는 key값(예를 들면 User_id)에 맵핑된 braze_id를 추출해서 올려야 합니다)
 
-## Segment 기능 활용 꿀팁
+## Segment 기능 활용 🍯Tip
 
 이렇게 생성한 Segment의 모수는 실제로 메시지를 발송해서 도달할 수 있는 유저수(Reachable user)와 다를 수 있습니다.
 
