@@ -16,7 +16,7 @@ tags:
 description: 'Braze Push/In-app message메시지 데이터 해석 및 Report 설정 방법'
 ---
 
-안녕하세요~!
+안녕하세요~!<br>
 프로이직러 Mara입니다. 
 
 이전 글에서는 우리 고객인 Target user에게 개인화된 마케팅 메시지를 전달하기 위해 캠페인을 생성해봤습니다. 그럼 메시지의 성과가 좋았는지 나빴는지 측정해봐야겠죠?
