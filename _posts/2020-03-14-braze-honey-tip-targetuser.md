@@ -13,7 +13,7 @@ tags:
   - 마케팅
   - 핀테크
   - braze
-description: 'Segments 기능 활용해서 도달가능 유저 확인하는 꿀팁'
+description: 'Segments 기능 활용해서 도달가능 유저 확인하는 방법'
 ---
 
 안녕하세요~! 

@@ -3,8 +3,8 @@ layout: post
 permalink: /jobhunting-self-development/
 title: '[이직의기술]연봉 앞자리를 바꾸는 자기개발'
 date: 2020-05-11 12:00:00 +09:00
-feature: '/img/career/01/02_Thumnail.png'
-background: '/img/career/01/01_Back.png'
+feature: '/img/career/01/02_T.png'
+background: '/img/career/01/01_B.png'
 categories:
   - career
 tags:
