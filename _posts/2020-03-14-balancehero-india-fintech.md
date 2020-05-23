@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /balancehero-india-fintech-mara/
-title: '프로이직러, 스타트업으로 가다'
+title: '프로이직러, 스타트업에 가다'
 date: 2020-03-14 10:30:00 +09:00
 feature: '/img/posts/01/01_T.jpg'
 background: '/img/posts/01/01_Back.jpg'
