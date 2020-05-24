@@ -33,7 +33,7 @@ description: '마케터가 알아야 할 개발지식, 유용한 블로그 정�
 
 요청사항이 클라이언트 사이드이냐 서버 사이드이냐에 따라서 컨택포인트를 구별할 수 있습니다.
 
-#### [[생활코딩] 서버란 무엇인가👉](https://www.youtube.com/watch?v=bnpJVGt5Cxk)
+#### [[생활코딩] 서버란 무엇인가👉](https://www.youtube.com/watch?v=bnpJVGt5Cxk)<br>
 
 ## API
 
@@ -47,13 +47,13 @@ API는 서버와 클라이언트가 통신하는 규칙입니다. 예를 들어 
 
 Android Application Package의 줄임말로 AOS 모바일에서 플레이스토어를 거치지 않고 앱을 다운로드할 수 있는 방법으로 많이 사용됩니다. 앱 서비스 회사라면 주기적으로 수정사항과 신규 프로덕을 업데이트해서 플레이스토어에 앱을 업로드하고 배포를 하는데요, 정식으로 앱을 업로드하기 전에 수정사항들이 모바일에서 정상적으로 동작하는지 확인하기 위한 내부 QA 용도로 사용되곤 합니다. APK 파일에 대한 좀 더 자세한 설명은 아래 유튜브를 참고해주세요. 
 
-#### [[Android]What is APK files?👉 ](https://www.youtube.com/watch?v=Hawj4WRxNSs)
+#### [[Android]What is APK files?👉 ](https://www.youtube.com/watch?v=Hawj4WRxNSs)<br>
 
 ## SDK
 
 Software Development Kit의 줄임말로 앱을 동작시키기 위한 각종 코드(Libraries)와 문서(Documentation), API가 정리되어 있는 파일입니다. 앱 서비스 관련 업무를 하다 보면 "저희 SDK 탑재해주셔야 해요"라는 말 들어보셨을 텐데요. 예를 들어 Facebook 광고를 활용하려면 Facebook에서 제공하는 Facebook SDK를 탑재해야 합니다. Facebook은 SDK를 통해서 광고주 앱 내 이벤트, 인스톨 이후 Action에 대해서 postback을 받아보고 유저 정보를 분석해 캠페인을 최적화합니다. 이렇게 다른 앱이 제공하는 서비스를 활용하기 위해 해당 앱의 SDK를 자사 앱에 탑재하려면 개발자의 도움을 받아야 합니다. SDK 탑재 이후 플레이스토어/ 앱스토어에 업로드하여 버전 업그레이드를 한 유저가 사용을 해야 비로소 기능을 사용할 수 있습니다. 즉, '다른 앱 SDK를 업데이트했다면 서비스를 활용하려면 시차가 있다!'라는 부분을 이해하고 계셔야 합니다. 아래 링크에서 Facebook SDK를 직접 보면 좀 더 이해하기 쉬우실 거에요. 
 
-#### [Facebook SDK 구경하러 가기👉 ](https://developers.facebook.com/docs/apis-and-sdks/)
+#### [Facebook SDK 구경하러 가기👉 ](https://developers.facebook.com/docs/apis-and-sdks/)<br>
 
 ## 앱의 종류
 
@@ -69,19 +69,19 @@ Software Development Kit의 줄임말로 앱을 동작시키기 위한 각종 �
 
 플랫폼에서 제공하는 카메라, 위치정보, 연락처 등 OS에서 기본적으로 제공하는 유틸리티 기능들과 상호 교환이 쉽게 이루어진다는 장점이 있습니다. 예를 들어 어떤 앱을 다운로드하고 나서 카메라 접근 허용 여부를 물을 때가 있죠? 네이티브 앱은 OS에서 제공하는 API를 통해서 카메라에 접근하는 기능을 구현했기 때문입니다. 하지만 단점도 존재합니다. 플랫폼 별로 각각의 언어로 개발이 되어야 하기 때문에 플랫폼에 종속되고 2번 개발해야 하는 등 개발에 많은 리소스가 필요합니다. 
 
-#### [Traversy Media - Mobile Apps- Web vs. Native vs. Hybrid👉](https://www.youtube.com/watch?v=ZikVtdopsfY)
+#### [Traversy Media - Mobile Apps- Web vs. Native vs. Hybrid👉](https://www.youtube.com/watch?v=ZikVtdopsfY)<br>
 
 ## 크롬 개발자 도구(단축키 F12)
 
 개발 공부를 하다 보면 웹 페이지 코드를 확인해보고 싶어 지는데요. 이때 개발자의 도움 없이 간단하게 코드를 확인하기 유용한 도구가 바로 크롬 웹 개발자 도구입니다. 웹 페이지를 열어 둔 상태에서 F12를 누르면 Elements라는 탭에서 페이지의 코드를 확인할 수 있습니다. 또 Console에서는 직접 간단한 코드를 짜 보고 실행시켜 볼 수도 있습니다. 각 탭 별로 고유의 목적이 있으니 이런 내용을 공부해보는 것도 좋은 공부법이겠네요. 
 
-### 마케터 Tip 
+### 마케터 🍯Tip 
 
 크롬 개발자 도구 화면에서 왼쪽 상단에 위치하는 '기기 모드'를 사용하면 페이지가 모바일 기기에서 어떻게 나타나고 작동하는지 시뮬레이션해볼 수 있습니다. 마케터는 모바일 광고가 기기별로 제대로 노출되는지, 이미지가 잘려 나오지는 않는지 등등을 간단하게 검토해볼 수 있습니다. 
 
 #### [녹두장군 - 구글 크롬 개발자 도구 사용법 및 새창으로 띄우는 방법👉]( https://mainia.tistory.com/2393 )
 
-#### [Google Chrome Developer Tools Crash Course👉](https://www.youtube.com/watch?v=x4q86IjJFag)
+#### [Google Chrome Developer Tools Crash Course👉](https://www.youtube.com/watch?v=x4q86IjJFag)<br>
 
 ## 애드테크 회사 블로그
 
@@ -95,11 +95,11 @@ Software Development Kit의 줄임말로 앱을 동작시키기 위한 각종 �
 
 어트리뷰션 툴 중 하나인 Tune에서 운영하는 블로그입니다. 소비자 인앱 액티비티를 측정하기 위해 꼭 알아야 하는 개념들인 Tracking url과 Postback 구조에 대해 상세하게 설명하고 있습니다. 
 
-### 정보 검색 Tip
+### 정보 검색 🍯Tip
 
 구글링으로 영어로 검색을 하면 좀 더 딥하고 상세한 정보를 얻을 수 있다. 주로 미국 모바일 광고 시장에서 먼저 시행되고 한국은 2~3년 정도 늦는 감이 있는데 특히 RTB 관련된 내용은 영어로 구글링 하면 양질의 정보를 얻을 수 있다. Youtube에서 영어로 검색하면 한국어로 검색할 때는 잘 나오지 않는 양질의 정보들이 많으니 검색할때는 꼮 영어로 검색하는 습관을 들여보세요. 
 
-지금까지 총 3편에 걸쳐서 디지털 마케터가 알아야 할 기초지식에 대해서 살펴봤는데요. 디지털 마케팅의 세계는 무궁무진하고 아직 진화하고 있는 시장인 만큼 공부해야 할 내용도 계속해서 생기는 것 같습니다. 마케터에게 도움 될 만한 지식들을 지속적으로 업로드 할 예정이니 많이 기대해주세요. <br>
+지금까지 총 3편에 걸쳐서 디지털 마케터가 알아야 할 기초지식에 대해서 살펴봤는데요. 디지털 마케팅의 세계는 무궁무진하고 아직 진화하고 있는 시장인 만큼 공부해야 할 내용도 계속해서 생기는 것 같습니다. 마케터에게 도움 될 만한 지식들을 지속적으로 업로드 할 예정이니 많이 기대해주세요. 
 
 오늘도 칼퇴하세요~! 🙋‍♀️  
 
