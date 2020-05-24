@@ -33,13 +33,13 @@ description: '마케터가 알아야 할 개발지식, 유용한 블로그 정�
 
 요청사항이 클라이언트 사이드이냐 서버 사이드이냐에 따라서 컨택포인트를 구별할 수 있습니다.
 
-[[생활코딩] 서버란 무엇인가](https://www.youtube.com/watch?v=bnpJVGt5Cxk)
+#### [[생활코딩] 서버란 무엇인가👉](https://www.youtube.com/watch?v=bnpJVGt5Cxk)
 
 ## API
 
 API는 서버와 클라이언트가 통신하는 규칙입니다. 예를 들어 비행기표를 검색하는 서비스를 제공한다고 가정해봅시다. 유저는 날짜, 목적지, 시간대, 요금 등등 비행기표를 요청하는 데 필요한 정보를 적어서 제출합니다. 클라이언트는 이 요청을 각 비행사 서버에 전달합니다. 서버는 요청받은 정보에 해당하는 값을 다시 응답해주면 유저는 검색 결과를 보게 됩니다. 이때 클라이언트가 어떤 식으로 정보를 요청하고 서버가 응답할 때 어떤 식으로 정보를 응답해줘야 하는 지를 정의한 규칙이 바로 API죠. 날짜는 "MMDDYY", 요금은 "#,###. 00+Currency" 형태로 응답해줘 와 같은 규칙이요. 앱 서비스 업무를 하다 보면 API 연동을 해야 한다는 말을 정말 많이 듣게 되는데요. 이제 이 말을 들으면 "필요한 정보를 다른 서비스 주체로부터 응답받아오기 위해서 통신 규칙을 전달해야 한다는 의미이구나"라고 이해하실 수 있으시겠죠?  
 
-[[Mulesoft] What is API?](https://www.youtube.com/watch?v=s7wmiS2mSXY ) 
+#### [[Mulesoft]What is API?👉](https://www.youtube.com/watch?v=s7wmiS2mSXY ) 
 
 서버와 클라이언트, 그리고 API의 관계에 대해서 쉽게 잘 설명해놓은 자료입니다. 영어 자료이긴 하지만 자막 기능 사용 가능하니 꼭 한번 시청해보세요. 
 
@@ -47,13 +47,13 @@ API는 서버와 클라이언트가 통신하는 규칙입니다. 예를 들어 
 
 Android Application Package의 줄임말로 AOS 모바일에서 플레이스토어를 거치지 않고 앱을 다운로드할 수 있는 방법으로 많이 사용됩니다. 앱 서비스 회사라면 주기적으로 수정사항과 신규 프로덕을 업데이트해서 플레이스토어에 앱을 업로드하고 배포를 하는데요, 정식으로 앱을 업로드하기 전에 수정사항들이 모바일에서 정상적으로 동작하는지 확인하기 위한 내부 QA 용도로 사용되곤 합니다. APK 파일에 대한 좀 더 자세한 설명은 아래 유튜브를 참고해주세요. 
 
-[[Android] What is APK files? ](https://www.youtube.com/watch?v=Hawj4WRxNSs)
+#### [[Android]What is APK files?👉 ](https://www.youtube.com/watch?v=Hawj4WRxNSs)
 
 ## SDK
 
 Software Development Kit의 줄임말로 앱을 동작시키기 위한 각종 코드(Libraries)와 문서(Documentation), API가 정리되어 있는 파일입니다. 앱 서비스 관련 업무를 하다 보면 "저희 SDK 탑재해주셔야 해요"라는 말 들어보셨을 텐데요. 예를 들어 Facebook 광고를 활용하려면 Facebook에서 제공하는 Facebook SDK를 탑재해야 합니다. Facebook은 SDK를 통해서 광고주 앱 내 이벤트, 인스톨 이후 Action에 대해서 postback을 받아보고 유저 정보를 분석해 캠페인을 최적화합니다. 이렇게 다른 앱이 제공하는 서비스를 활용하기 위해 해당 앱의 SDK를 자사 앱에 탑재하려면 개발자의 도움을 받아야 합니다. SDK 탑재 이후 플레이스토어/ 앱스토어에 업로드하여 버전 업그레이드를 한 유저가 사용을 해야 비로소 기능을 사용할 수 있습니다. 즉, '다른 앱 SDK를 업데이트했다면 서비스를 활용하려면 시차가 있다!'라는 부분을 이해하고 계셔야 합니다. 아래 링크에서 Facebook SDK를 직접 보면 좀 더 이해하기 쉬우실 거에요. 
 
-[Facebook SDK 구경하러 가기 ](https://developers.facebook.com/docs/apis-and-sdks/)
+#### [Facebook SDK 구경하러 가기👉 ](https://developers.facebook.com/docs/apis-and-sdks/)
 
 ## 앱의 종류
 
@@ -69,7 +69,7 @@ Software Development Kit의 줄임말로 앱을 동작시키기 위한 각종 �
 
 플랫폼에서 제공하는 카메라, 위치정보, 연락처 등 OS에서 기본적으로 제공하는 유틸리티 기능들과 상호 교환이 쉽게 이루어진다는 장점이 있습니다. 예를 들어 어떤 앱을 다운로드하고 나서 카메라 접근 허용 여부를 물을 때가 있죠? 네이티브 앱은 OS에서 제공하는 API를 통해서 카메라에 접근하는 기능을 구현했기 때문입니다. 하지만 단점도 존재합니다. 플랫폼 별로 각각의 언어로 개발이 되어야 하기 때문에 플랫폼에 종속되고 2번 개발해야 하는 등 개발에 많은 리소스가 필요합니다. 
 
-[Traversy Media - Mobile Apps- Web vs. Native vs. Hybrid](https://www.youtube.com/watch?v=ZikVtdopsfY)
+#### [Traversy Media - Mobile Apps- Web vs. Native vs. Hybrid👉](https://www.youtube.com/watch?v=ZikVtdopsfY)
 
 ## 크롬 개발자 도구(단축키 F12)
 
@@ -79,19 +79,19 @@ Software Development Kit의 줄임말로 앱을 동작시키기 위한 각종 �
 
 크롬 개발자 도구 화면에서 왼쪽 상단에 위치하는 '기기 모드'를 사용하면 페이지가 모바일 기기에서 어떻게 나타나고 작동하는지 시뮬레이션해볼 수 있습니다. 마케터는 모바일 광고가 기기별로 제대로 노출되는지, 이미지가 잘려 나오지는 않는지 등등을 간단하게 검토해볼 수 있습니다. 
 
-[녹두장군 - 구글 크롬 개발자 도구 사용법 및 새창으로 띄우는 방법]( https://mainia.tistory.com/2393 )
+#### [녹두장군 - 구글 크롬 개발자 도구 사용법 및 새창으로 띄우는 방법👉]( https://mainia.tistory.com/2393 )
 
-[Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
+#### [Google Chrome Developer Tools Crash Course👉](https://www.youtube.com/watch?v=x4q86IjJFag)
 
 ## 애드테크 회사 블로그
 
 애드테크 업계는 계속해서 수요자의 문제를 해결해 나가는 방향으로 진화하고 있습니다. 최근 광고 시장의 동향과 이슈에 대해서 지속적인 팔로업을 하려면 Player들이 현재 어떤 것에 관심을 두고 있고 어떤 상품을 업데이트 하는 지 살펴보는 것을 추천드립니다.   
 
-[igaworks](http://blog.igaworks.com/) 
+#### [igaworks👉](http://blog.igaworks.com/) 
 
 모바일 광고시장의 다양한 역할(어트리뷰선 툴, 애드네트워크, SSP&DSP 등등)을 단일 회사가 모두 가지고 있으면 Full stack을 구현했다고 하는데 igaworks가 그런 회사 중 하나이다. 그래서 그런지 블로그도 꽤나 잘 정리되어 있는 편이니 저장해 두고 시간 날 때마다 살펴보면 도움이 된다. Full stack인 만큼 어트리뷰션 툴도 갖추고 있는데 그래서 어트리뷰션 툴과 포스트백에 대한 지식도 잘 정리되어 있는 편이다. 참고로 igaworks에서 운영하는 어트리뷰션 툴은 adbrix입니다. 
 
-[Tune](https://blog.naver.com/tunekorea)
+#### [Tune👉](https://blog.naver.com/tunekorea)
 
 어트리뷰션 툴 중 하나인 Tune에서 운영하는 블로그입니다. 소비자 인앱 액티비티를 측정하기 위해 꼭 알아야 하는 개념들인 Tracking url과 Postback 구조에 대해 상세하게 설명하고 있습니다. 
 
@@ -99,7 +99,7 @@ Software Development Kit의 줄임말로 앱을 동작시키기 위한 각종 �
 
 구글링으로 영어로 검색을 하면 좀 더 딥하고 상세한 정보를 얻을 수 있다. 주로 미국 모바일 광고 시장에서 먼저 시행되고 한국은 2~3년 정도 늦는 감이 있는데 특히 RTB 관련된 내용은 영어로 구글링 하면 양질의 정보를 얻을 수 있다. Youtube에서 영어로 검색하면 한국어로 검색할 때는 잘 나오지 않는 양질의 정보들이 많으니 검색할때는 꼮 영어로 검색하는 습관을 들여보세요. 
 
-지금까지 총 3편에 걸쳐서 디지털 마케터가 알아야 할 기초지식에 대해서 살펴봤는데요. 디지털 마케팅의 세계는 무궁무진하고 아직 진화하고 있는 시장인 만큼 공부해야 할 내용도 계속해서 생기는 것 같습니다. 마케터에게 도움 될 만한 지식들을 지속적으로 업로드 할 예정이니 많이 기대해주세요. 
+지금까지 총 3편에 걸쳐서 디지털 마케터가 알아야 할 기초지식에 대해서 살펴봤는데요. 디지털 마케팅의 세계는 무궁무진하고 아직 진화하고 있는 시장인 만큼 공부해야 할 내용도 계속해서 생기는 것 같습니다. 마케터에게 도움 될 만한 지식들을 지속적으로 업로드 할 예정이니 많이 기대해주세요. <br>
 
 오늘도 칼퇴하세요~! 🙋‍♀️  
 

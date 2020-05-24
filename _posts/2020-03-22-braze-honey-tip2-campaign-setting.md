@@ -13,7 +13,7 @@ tags:
   - 마케팅
   - 핀테크
   - Braze
-description: 'Braze 활용해서 서비스 유저에게 Push/In-app message보내는 방법'
+description: 'Braze로 유저에게 Push/In-app message보내는 방법'
 ---
 
 안녕하세요~!<br>
