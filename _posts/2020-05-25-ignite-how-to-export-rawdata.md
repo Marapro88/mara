@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /ignite-how-to-export-rawdata/
-title: '[일잘러스킬]Raw data 가공하기'
+title: '[일잘러스킬]데이터추출-Raw data 가공하기'
 date: 2020-05-25 12:00:00 +09:00
 feature: '/img/ignite/02/01_T.png'
 background: '/img/ignite/02/01_B.png'

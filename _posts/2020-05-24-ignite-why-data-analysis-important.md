@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /ignite-why-data-analysis-important/
-title: '[일잘러스킬]데이터 분석의 첫걸음은 문제정의'
+title: '[일잘러스킬]데이터 분석-첫걸음은 문제정의'
 date: 2020-05-24 12:00:00 +09:00
 feature: '/img/ignite/01/01_T.png'
 background: '/img/ignite/01/01_B.png'
