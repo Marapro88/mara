@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /ignite-how-to-qa-data1/
-title: '[일잘러스킬]데이터 검증1_상식으로 크로스체크'
+title: '[일잘러스킬]상식으로 데이터 크로스체크하기'
 date: 2020-05-30 12:00:00 +09:00
 feature: '/img/ignite/03/01_T.png'
 background: '/img/ignite/03/01_B.png'
@@ -14,7 +14,7 @@ tags:
   - 커리어
   - 엑셀
   - 데이터분석
-description: '크로스 체크 해야하는 이유&방법'
+description: '크로스체크 해야 하는 이유&방법'
 ---
 
 안녕하세요~!<br>
