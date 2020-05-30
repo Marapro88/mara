@@ -2,9 +2,9 @@
 layout: post
 permalink: /ignite-how-to-qa-data3/
 title: '[일잘러스킬]데이터검증허니팁2-KPI로 크로스체크하기'
-date: 2020-05-28 12:00:00 +09:00
-feature: '/img/ignite/05/01_T.png'
-background: '/img/ignite/05/01_B.png'
+date: 2020-05-27 12:00:00 +09:00
+feature: '/img/ignite/04/01_T.png'
+background: '/img/ignite/04/01_B.png'
 categories:
   - ignite
 tags:
