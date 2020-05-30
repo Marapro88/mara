@@ -6,6 +6,8 @@ date: 2020-05-27 12:00:00 +09:00
 feature: '/img/ignite/02/01_T.png'
 background: '/img/ignite/02/01_B.png'
 categories:
+  - ignite
+tags:
   - 스타트업
   - 밸런스히어로
   - 디지털마케팅
