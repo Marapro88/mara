@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /ignite-how-to-qa-data3/
+permalink: /ignite-how-to-qa-data2-kpi-crosscheck/
 title: '[일잘러스킬]데이터검증허니팁2-KPI로 크로스체크하기'
 date: 2020-05-27 12:00:00 +09:00
 feature: '/img/ignite/04/01_T.png'

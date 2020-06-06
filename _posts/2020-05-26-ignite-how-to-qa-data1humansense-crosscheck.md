@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /ignite-how-to-qa-data1/
+permalink: /ignite-how-to-qa-data1-humansense-crosscheck/
 title: '[일잘러스킬]데이터검증허니팁1-상식으로 크로스체크하기'
 date: 2020-05-26 12:00:00 +09:00
 feature: '/img/ignite/03/01_T.png'

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /ignite-how-to-qa-data1/
+permalink: /ignite-how-to-qa-data3-pivot-crosscheck/
 title: '[일잘러스킬]데이터검증허니팁3-피봇테이블로 크로스체크하기'
 date: 2020-05-28 12:00:00 +09:00
 feature: '/img/ignite/05/01_T.png'
