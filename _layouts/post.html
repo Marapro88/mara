@@ -52,9 +52,10 @@ layout: default
     </div>
   </article>
   <script type="text/javascript">
+    var postTitle='{{ page.title }}';
     gtag('event','보기',{
     'event_category':'글보기',
-    })
+    'event_label': postTitle})
     ;
   </script>
   {% include disqus.html %}
