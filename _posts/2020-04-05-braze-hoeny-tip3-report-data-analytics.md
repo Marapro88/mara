@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /marketing-braze-honey-tip3-report-data-analytics/
-title: 'Braze 마케팅 꿀팁 3_성과측정(리포트 사용꿀팁)'
+title: 'Braze 마케팅 꿀팁 3_리포트 성과측정'
 date: 2020-04-05 12:00:00 +09:00
 feature: '/img/posts/04/02_Thumnail.jpg'
 background: '/img/posts/04/01_Back.jpg'
