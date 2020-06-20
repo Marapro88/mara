@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /marketing-cheat-key-3/
-title: '[마케터치트키]디지털 마케터를 위한 기초지식3'
+permalink: /marketing-cheat-key-3-dev-knowledge/
+title: '[마케팅공부]디지털 마케터를 위한 기초지식3'
 date: 2020-05-10 12:00:00 +09:00
 feature: '/img/posts/07/02_Thumnail.jpg'
 background: '/img/posts/07/01_Back.jpg'
@@ -10,9 +10,9 @@ categories:
 tags:
   - 스타트업
   - 밸런스히어로
-  - 디지털마케팅
+  - 디지털마케팅공부
   - 핀테크
-description: '마케터가 알아야 할 개발지식, 유용한 블로그 정보'
+description: '마케터가 알아야 할 개발지식, 디지털 마케팅 공부에 유용한 블로그 정보'
 ---
 
 안녕하세요~!<br>
