@@ -13,6 +13,7 @@ tags:
   - 마케팅
   - 핀테크
   - Braze 마케팅
+  - 메시지마케팅자동화
 description: 'Braze Push/In-app message메시지 데이터 해석 및 Report 설정 방법'
 ---
 

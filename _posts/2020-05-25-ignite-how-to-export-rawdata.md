@@ -14,7 +14,8 @@ tags:
   - 커리어
   - 엑셀
   - 데이터분석
-description: '수식 활용해서 데이터 가공하기'
+  - Raw data
+description: '수식 활용해서 Raw data 가공하기'
 ---
 
 안녕하세요~!<br>

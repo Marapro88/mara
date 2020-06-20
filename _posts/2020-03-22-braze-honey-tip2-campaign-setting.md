@@ -13,6 +13,7 @@ tags:
   - 마케팅
   - 핀테크
   - Braze 마케팅
+  - 메시지마케팅자동화
 description: 'Braze로 유저에게 Push/In-app message보내는 방법'
 ---
 

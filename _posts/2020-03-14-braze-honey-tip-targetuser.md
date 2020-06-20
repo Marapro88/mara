@@ -13,6 +13,7 @@ tags:
   - 마케팅
   - 핀테크
   - braze 마케팅
+  - 메시지마케팅자동화
 description: 'Segments 기능 활용해서 도달가능 유저 확인하는 방법'
 ---
 
