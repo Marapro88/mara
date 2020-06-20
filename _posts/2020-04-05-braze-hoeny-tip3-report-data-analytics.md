@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /marketing-braze-honey-tip3-report-data-analytics/
-title: 'Braze 사용 꿀팁 3_성과측정(리포트 사용꿀팁)'
+title: 'Braze 마케팅 꿀팁 3_성과측정(리포트 사용꿀팁)'
 date: 2020-04-05 12:00:00 +09:00
 feature: '/img/posts/04/02_Thumnail.jpg'
 background: '/img/posts/04/01_Back.jpg'
@@ -12,7 +12,7 @@ tags:
   - 밸런스히어로
   - 마케팅
   - 핀테크
-  - Braze
+  - Braze 마케팅
 description: 'Braze Push/In-app message메시지 데이터 해석 및 Report 설정 방법'
 ---
 

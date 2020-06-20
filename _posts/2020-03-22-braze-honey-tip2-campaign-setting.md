@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /marketing-braze-honey-tip2-campaign-setting/
-title: 'Braze 사용 꿀팁 2_Campaign 생성하기 '
+title: 'Braze 마케팅 꿀팁 2_Campaign 생성하기 '
 date: 2020-03-22 14:00:00 +09:00
 feature: '/img/posts/03/02_Thumnail.jpg'
 background: '/img/posts/03/01_Back.jpg'
@@ -12,7 +12,7 @@ tags:
   - 밸런스히어로
   - 마케팅
   - 핀테크
-  - Braze
+  - Braze 마케팅
 description: 'Braze로 유저에게 Push/In-app message보내는 방법'
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /marketing-braze-honeytip1-target-user/
-title: 'Braze 사용 꿀팁1_Target User 생성'
+title: 'Braze 마케팅 꿀팁1_Target User 생성'
 date: 2020-03-14 10:30:00 +09:00
 feature: '/img/posts/02/02_Thumnail.jpg'
 background: '/img/posts/02/01_Back.jpg'
@@ -12,7 +12,7 @@ tags:
   - 밸런스히어로
   - 마케팅
   - 핀테크
-  - braze
+  - braze 마케팅
 description: 'Segments 기능 활용해서 도달가능 유저 확인하는 방법'
 ---
 
