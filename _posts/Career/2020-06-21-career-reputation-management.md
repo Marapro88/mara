@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /career-reputation-management/
-title: '[이직의기술]연봉 앞자리 바꾸는 직장인 평판관리'
+title: '[이직의기술]연봉 앞자리 바꾸는 평판관리법'
 date: 2020-06-21 12:00:00 +09:00
 feature: '/img/career/03/01_T.png'
 background: '/img/career/03/01_B.png'
