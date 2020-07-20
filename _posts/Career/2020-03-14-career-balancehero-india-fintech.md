@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /balancehero-india-fintech-mara/
-title: '프로이직러, 밸런스히어로 면접에 가다'
+title: '프로이직러, 밸런스히어로에 가다'
 date: 2020-03-14 10:30:00 +09:00
 feature: '/img/posts/01/01_T.jpg'
 background: '/img/posts/01/01_Back.jpg'
@@ -13,7 +13,7 @@ tags:
   - 마케팅
   - 핀테크
   - 면접꿀팁
-description: '프로이직러 Mara가 인도 핀테크 스타트업 밸런스 히어로에 조인한 과정'
+description: '인도 핀테크 스타트업 밸런스 히어로 면접후기'
 ---
 
 ## 인도 핀테크 스타트업, 밸런스 히어로 취직하기
