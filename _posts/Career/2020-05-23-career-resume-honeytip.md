@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /career-resume-skill/
-title: '[이직의기술]연봉 앞자리 바꾸는 이력서 쓰는법'
+title: '[이직의기술]연봉 앞자리 바꾸는 이력서 작성법'
 date: 2020-05-23 12:00:00 +09:00
 feature: '/img/career/02/02_T.png'
 background: '/img/career/02/01_B.png'
@@ -15,7 +15,7 @@ tags:
   - 커리어
   - 이직
   - 이직 자기소개서
-description: '커리어 계획 세우기,이직 자기소개서 전략적으로 쓰는법, 좋은 이직사유'
+description: '커리어 계획 세우기, 자기소개서 쓰는법, 좋은 이직사유'
 ---
 
 안녕하세요~!<br>
