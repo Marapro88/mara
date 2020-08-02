@@ -4,7 +4,7 @@ permalink: /career-idea-generation/
 title: '[일잘러스킬]효과적으로 아이데이선 하는 법'
 date: 2020-08-02 12:00:00 +09:00
 feature: '/img/career/06/01_T.jpg'
-background: '/img/career/06/01_B.png'
+background: '/img/career/06/01_B.jpg'
 categories:
   - career
 tags:
