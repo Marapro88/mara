@@ -2,7 +2,15 @@
 layout: default
 
 ---
-
+<!-- dataLayer -->
+<script type="text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    'event':'ViewContent'
+    'content_name':'{{page.title}}',
+    'content_ids':'{{content_id}}'
+  });
+</script>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T9LMZVZ"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
