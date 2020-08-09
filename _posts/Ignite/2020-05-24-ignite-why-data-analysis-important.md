@@ -15,6 +15,7 @@ tags:
   - 엑셀
   - 데이터분석
 description: '문제를 해결하는 데이터 추출하기'
+content_id: '1'
 ---
 
 안녕하세요~!<br>

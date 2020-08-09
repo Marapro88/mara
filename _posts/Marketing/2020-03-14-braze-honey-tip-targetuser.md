@@ -15,6 +15,7 @@ tags:
   - braze 마케팅
   - 메시지마케팅자동화
 description: 'Segments 기능 활용해서 도달가능 유저 확인하는 방법'
+content_id: '1'
 ---
 
 안녕하세요~!<br>

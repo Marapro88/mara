@@ -15,6 +15,7 @@ tags:
   - Braze 마케팅
   - 메시지마케팅자동화
 description: 'Braze Push/In-app message메시지 데이터 해석 및 Report 설정 방법'
+content_id: '3'
 ---
 
 안녕하세요~!<br>

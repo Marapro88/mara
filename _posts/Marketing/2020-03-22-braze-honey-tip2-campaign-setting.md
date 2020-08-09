@@ -15,6 +15,7 @@ tags:
   - Braze 마케팅
   - 메시지마케팅자동화
 description: 'Braze로 유저에게 Push/In-app message보내는 방법'
+content_id: '2'
 ---
 
 안녕하세요~!<br>

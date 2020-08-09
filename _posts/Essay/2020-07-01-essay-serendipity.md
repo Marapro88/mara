@@ -12,6 +12,7 @@ tags:
   - 세렌디피티
   - 하트시그널 
 description: '운명론자가 성공하는 이유'
+content_id: '2'
 ---
 
 안녕하세요?<br>프로이직러 Mara입니다. 

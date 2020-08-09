@@ -16,6 +16,7 @@ tags:
   - 데이터분석
   - Raw data
 description: '엑셀 활용해서 Raw data 가공하기(feat.수식꿀팁)'
+content_id: '2'
 ---
 
 안녕하세요~!<br>

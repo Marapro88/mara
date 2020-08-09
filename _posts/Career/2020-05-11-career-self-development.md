@@ -14,6 +14,7 @@ tags:
   - 핀테크
   - 직장인 자기계발
 description: '현업에서 성과내기, 스터디, 지식습득 Tip'
+content_id: '6'
 ---
 
 안녕하세요~!<br>

@@ -16,6 +16,7 @@ tags:
   - 데이터분석
   - KPI설정
 description: 'KPI 레퍼런스삼아 데이터 검증하기'
+content_id: '4'
 ---
 
 안녕하세요~!<br>
