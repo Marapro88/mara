@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /marketing-cheat-key-2-publisher-attributiontool-Advertiser/
-title: '[마케팅공부]매체와 광고주, 어트리뷰션 툴'
+title: '[디지털마케팅]매체와 광고주, 어트리뷰션 툴'
 date: 2020-04-25 12:00:00 +09:00
 feature: '/img/posts/06/02_Thumnail.jpg'
 background: '/img/posts/06/01_Back.jpg'
@@ -13,7 +13,7 @@ tags:
   - 디지털마케팅공부
   - 핀테크
 description: '디지털 마케터를 위한 기초지식2'
-content_id: '5'
+content_id: '1004'
 ---
 
 안녕하세요~!<br>

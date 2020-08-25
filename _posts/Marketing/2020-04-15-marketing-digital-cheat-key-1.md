@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /marketing-cheat-key-1-glossary-web-internet/
-title: '[마케팅공부]인터넷과 웹, 광고 시장 플레이어, 디지털 마케팅 기본용어'
+title: '[디지털마케팅]인터넷과 웹, 광고 시장 플레이어, 디지털 마케팅 기본용어'
 date: 2020-04-15 12:00:00 +09:00
 feature: '/img/posts/05/02_Thumnail.jpg'
 background: '/img/posts/05/01_Back.jpg'
@@ -13,7 +13,7 @@ tags:
   - 디지털마케팅공부
   - 핀테크
 description: '디지털 마케터를 위한 기초지식1'
-content_id: '4'
+content_id: '1003'
 ---
 
 안녕하세요~!<br>

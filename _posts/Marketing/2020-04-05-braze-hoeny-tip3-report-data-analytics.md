@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /marketing-braze-honey-tip3-report-data-analytics/
-title: 'Braze 마케팅 꿀팁 3_리포트 성과측정'
+title: '[디지털마케팅]Braze 꿀팁 3_리포트 성과측정'
 date: 2020-04-05 12:00:00 +09:00
 feature: '/img/posts/04/02_Thumnail.jpg'
 background: '/img/posts/04/01_Back.jpg'
@@ -15,7 +15,7 @@ tags:
   - Braze 마케팅
   - 메시지마케팅자동화
 description: 'Braze Push/In-app message메시지 데이터 해석 및 Report 설정 방법'
-content_id: '3'
+content_id: '1002'
 ---
 
 안녕하세요~!<br>

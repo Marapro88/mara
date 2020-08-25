@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /marketing-braze-honeytip1-target-user/
-title: 'Braze 마케팅 꿀팁1_Target User 생성'
+title: '[디지털마케팅]Braze 꿀팁1_Target User 생성'
 date: 2020-03-14 10:30:00 +09:00
 feature: '/img/posts/02/02_Thumnail.jpg'
 background: '/img/posts/02/01_Back.jpg'
@@ -15,7 +15,7 @@ tags:
   - braze 마케팅
   - 메시지마케팅자동화
 description: 'Segments 기능 활용해서 도달가능 유저 확인하는 방법'
-content_id: '1'
+content_id: '1000'
 ---
 
 안녕하세요~!<br>

@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /marketing-persona-buildup/
-title: '[마케팅공부]페르소나 구축하는 방법'
+title: '[디지털마케팅]페르소나 구축하는 방법'
 date: 2020-08-09 12:00:00 +09:00
 feature: '/img/posts/09/01_T.jpg'
 background: '/img/posts/09/01_B.jpg'
@@ -14,8 +14,8 @@ tags:
   - 마케팅
   - 페르소나
   - 유저 페르소나
-description: '페르소나를 활용해서 성공적인 마케팅하는법'
-content_id: '9'
+description: '페르소나를 활용해서 성공적인 디지털 마케팅하는법'
+content_id: '1007'
 ---
 
 안녕하세요~!<br>

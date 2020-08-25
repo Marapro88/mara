@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /marketing-braze-honey-tip2-campaign-setting/
-title: 'Braze 마케팅 꿀팁 2_Campaign 생성하기 '
+title: '[디지털마케팅]Braze 꿀팁 2_Campaign 생성하기 '
 date: 2020-03-22 14:00:00 +09:00
 feature: '/img/posts/03/02_Thumnail.jpg'
 background: '/img/posts/03/01_Back.jpg'
@@ -15,7 +15,7 @@ tags:
   - Braze 마케팅
   - 메시지마케팅자동화
 description: 'Braze로 유저에게 Push/In-app message보내는 방법'
-content_id: '2'
+content_id: '1001'
 ---
 
 안녕하세요~!<br>
