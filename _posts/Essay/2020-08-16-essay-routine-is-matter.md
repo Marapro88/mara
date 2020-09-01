@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /why-routine-is-matter/
-title: '일상을 변화시키는 루틴의 힘'
+title: '[Essay]일상을 변화시키는 루틴의 힘'
 date: 2020-08-16 00:00:00 +09:00
 feature: '/img/essay/03/01_T.jpg'
 background: '/img/essay/03/01_B.jpg'

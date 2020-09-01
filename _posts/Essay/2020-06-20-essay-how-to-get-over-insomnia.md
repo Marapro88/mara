@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /how-to-get-over-insomnia/
-title: '불면증을 극복하는 현실적인 방법 4가지'
+title: '[Essay]불면증을 극복하는 현실적인 방법 4가지'
 date: 2020-06-20 12:00:00 +09:00
 feature: '/img/essay/01/01_T.png'
 background: '/img/essay/01/01_B.png'
