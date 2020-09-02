@@ -8,11 +8,11 @@ background: '/img/ignite/07/01_B.png'
 categories:
   - ignite
 tags:
-  - 스타트업
-  - 밸런스히어로
   - 디지털마케팅
   - 커리어
   - 시뮬레이션
+  - 일잘러
+  - 프로이직러
 description: '주니어도 경력직으로 만들어주는 고급 스킬'
 content_id: '7'
 ---

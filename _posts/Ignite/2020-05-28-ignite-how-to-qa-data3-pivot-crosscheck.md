@@ -8,12 +8,13 @@ background: '/img/ignite/05/01_B.png'
 categories:
   - ignite
 tags:
-  - 스타트업
-  - 밸런스히어로
-  - 디지털마케팅
-  - 커리어
   - 엑셀
   - 데이터분석
+  - 데이터 추출
+  - 퍼포먼스 마케팅 
+  - 더블체크
+  - 크로스체크
+  - 크로스체크 더블체크
 description: '피봇테이블로 쉽고 효과적으로 크로스체크하기'
 content_id: '4'
 ---

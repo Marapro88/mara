@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /jobhunting-self-development/
+permalink: /career-jobhunting-self-development/
 title: '[이직의기술]연봉 앞자리를 바꾸는 직장인 자기계발'
 date: 2020-05-11 12:00:00 +09:00
 feature: '/img/career/01/02_T.png'
@@ -9,10 +9,12 @@ categories:
   - career
 tags:
   - 스타트업
-  - 밸런스히어로
-  - 디지털마케팅
-  - 핀테크
   - 직장인 자기계발
+  - 경력직 이직
+  - 이직사유
+  - 이직 연봉
+  - 일잘러
+  - 프로이직러
 description: '현업에서 성과내기, 스터디, 지식습득 Tip'
 content_id: '6'
 ---

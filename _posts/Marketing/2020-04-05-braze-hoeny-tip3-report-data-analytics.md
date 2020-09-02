@@ -8,14 +8,19 @@ background: '/img/posts/04/01_Back.jpg'
 categories:
   - marketing
 tags:
-  - 스타트업
-  - 밸런스히어로
   - 마케팅
-  - 핀테크
-  - Braze 마케팅
+  - braze 마케팅
   - 메시지마케팅자동화
+  - 인앱 메시지
+  - 앱푸시 마케팅
+  - 타겟팅 
+  - braze
+  - 캠페인 운영
+  - 일잘러
+  - 프로이직러
+  - 퍼포먼스 마케팅
 description: 'Braze Push/In-app message메시지 데이터 해석 및 Report 설정 방법'
-content_id: '1002'
+content_id: '3'
 ---
 
 안녕하세요~!<br>

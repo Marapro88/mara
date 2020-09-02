@@ -8,11 +8,13 @@ background: '/img/ignite/04/01_B.png'
 categories:
   - ignite
 tags:
-  - 스타트업
-  - 밸런스히어로
-  - 디지털마케팅
-  - 커리어
   - 엑셀
+  - 데이터분석
+  - 데이터 추출
+  - 퍼포먼스 마케팅 
+  - 더블체크
+  - 크로스체크
+  - 크로스체크 더블체크
   - 데이터분석
   - KPI설정
 description: 'KPI 레퍼런스삼아 데이터 검증하기'

@@ -8,12 +8,15 @@ background: '/img/ignite/06/01_B.png'
 categories:
   - ignite
 tags:
-  - 스타트업
-  - 밸런스히어로
-  - 디지털마케팅
-  - 커리어
   - 엑셀
   - 데이터분석
+  - 데이터 추출
+  - 퍼포먼스 마케팅 
+  - 더블체크
+  - 크로스체크
+  - 크로스체크 더블체크
+  - 일잘러
+  - 프로이직러
 description: '문제의 원인을 파악하는 가장 빠른 방법'
 content_id: '5'
 ---

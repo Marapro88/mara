@@ -8,13 +8,11 @@ background: '/img/ignite/02/01_B.png'
 categories:
   - ignite
 tags:
-  - 스타트업
-  - 밸런스히어로
-  - 디지털마케팅
-  - 커리어
   - 엑셀
   - 데이터분석
   - Raw data
+  - raw data 가공
+  - 데이터 추출
 description: '엑셀 활용해서 Raw data 가공하기(feat.수식꿀팁)'
 content_id: '2'
 ---

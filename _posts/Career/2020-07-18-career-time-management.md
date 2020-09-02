@@ -8,11 +8,16 @@ background: '/img/career/05/01_B.jpg'
 categories:
   - career
 tags:
-  - 스타트업
   - 커리어
   - 이직
-  - 시간관리 
-  - 직장생활
+  - 이직 자기소개서
+  - 이직사유 예시
+  - 면접
+  - 연봉협상
+  - 이직 연봉 협상
+  - 경력직 이직사유
+  - 일잘러
+  - 프로이직러
 description: '제한된 시간안에 높은 퀄리티를 유지하는 방법'
 content_id: '2'
 ---

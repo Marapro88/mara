@@ -8,14 +8,17 @@ background: '/img/posts/02/01_Back.jpg'
 categories:
   - marketing
 tags:
-  - 스타트업
-  - 밸런스히어로
   - 마케팅
-  - 핀테크
   - braze 마케팅
   - 메시지마케팅자동화
+  - 인앱 메시지
+  - 앱푸시 마케팅
+  - 타겟팅 
+  - braze
+  - 일잘러
+  - 프로이직러
 description: 'Segments 기능 활용해서 도달가능 유저 확인하는 방법'
-content_id: '1000'
+content_id: '1'
 ---
 
 안녕하세요~!<br>

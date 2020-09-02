@@ -8,8 +8,9 @@ background: '/img/career/06/01_B.jpg'
 categories:
   - career
 tags:
-  - 스타트업
   - 커리어
+  - 일잘러
+  - 프로이직러
   - 아이디어 제너레이션
   - 아이디어
   - 레퍼런스
