@@ -66,6 +66,6 @@ Mara는 이 '센스 좋음'이란 말을 '좋은 기획'이라고 바꿔도 무�
 [✔️당근마켓 커뮤니티 빌딩](https://www.facebook.com/marakim1127/posts/137206051281652) 
 
 지금까지 효과적으로 아이데이션 하는 방법에 대해 살펴봤습니다. 
-미즈노 마나부의 센스의 재발견이 좀 더 궁금하다면 Mara의 [책 추천](https://mara.kim/discovery-of-sense/)을 확인해보세요. <br>
+미즈노 마나부의 센스의 재발견이 좀 더 궁금하다면 Mara의 [책 추천](https://mara.kim/book-recommendation-discovery-of-sense/)을 확인해보세요. <br>
 
 오늘도 칼퇴하세요~! 🙋‍♀️  
