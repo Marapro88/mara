@@ -61,3 +61,4 @@ content_id: '1001'
 <center>쓸만한 인간이 읽어보고 싶다면? ▼</center>
 
 <center><a href="https://coupa.ng/bIHl0Z" target="_blank"><img src="https://static.coupangcdn.com/image/affiliate/banner/607312afcae7020815e2c1f2ae137372@2x.jpg" alt="쓸 만한 인간:박정민 산문집" width="120" height="240"></a></center>
+
