@@ -13,6 +13,9 @@ tags:
   - Raw data
   - raw data 가공
   - 데이터 추출
+  - raw data 뜻 
+  - raw데이터 추출
+  - 엑셀 raw data
 description: '엑셀 활용해서 Raw data 가공하기(feat.수식꿀팁)'
 content_id: '2'
 ---

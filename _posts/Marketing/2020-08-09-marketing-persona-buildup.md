@@ -9,7 +9,6 @@ categories:
   - marketing
 tags:
   - 스타트업
-  - 밸런스히어로
   - 디지털마케팅
   - 마케팅
   - 페르소나
