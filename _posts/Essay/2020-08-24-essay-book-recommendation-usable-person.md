@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /book-recommendations-usable-person/
-title: '[책추천]쓸만한 인간-박정민'
+permalink: /book-recommendation-usable-person/
+title: '[책추천]쓸만한 인간,박정민'
 date: 2020-08-23 00:00:00 +09:00
 feature: '/img/essay/04/01_T.jpg'
 background: '/img/essay/04/01_B.jpg'
