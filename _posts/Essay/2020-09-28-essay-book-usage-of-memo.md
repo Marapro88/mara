@@ -44,7 +44,7 @@ content_id: '1007'
 이 책을 읽고 기록하는 즐거움을 발견하셨으면 좋겠습니다.  <br>
 오늘도 행복하세요~! 🙋‍♀️ 
 
-Mara의 책추천을 더 읽어보고 싶다면?
+Mara의 책추천을 더 읽어보고 싶다면?<br>
 [[책추천]센스의 재발견, 미즈노마나부👉](https://mara.kim/book-recommendation-discovery-of-sense)<br>[[책추천]쓸만한 인간,박정민👉](https://mara.kim/book-recommendation-usable-person/)
 
 <center>기록의 쓸모가 읽어보고 싶다면? 👇</center>
