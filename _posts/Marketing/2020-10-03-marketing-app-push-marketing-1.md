@@ -42,7 +42,7 @@ content_id: '1010'
 
 **Braze로 캠페인 생성하는 방법이 궁금하다면👉** [글 보러가기](https://mara.kim/marketing-braze-honey-tip2-campaign-setting/)
 
-#### 1. Who: 누구에게 보낼 것인가?
+#### 1. Who: 누구에게 보낼 것인가?<br>
 
 #### 1-1. 타겟 유저가 누구인가?
 
