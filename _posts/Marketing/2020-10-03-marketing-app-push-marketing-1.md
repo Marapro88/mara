@@ -72,5 +72,5 @@ content_id: '1010'
 
 오늘은 앱 푸시 마케팅을 할 때 고려해야 할 것들 중 Who에 해당하는 타겟 유저와 이벤트에 대해서 살펴보았습니다. 다음 글에서는 When과 What에 해당하는 발송 시점과 메시지 콘텐츠에 대해 다뤄보겠습니다.<br>오늘도 칼퇴하세요 ~!  🙋‍♀️
 
-**✅서버/클라이언트 개념을 모르겠다면👉** [글 보러 가기](https://mara.kim/marketing-cheat-key-3-dev-knowledge/) 
+**✅서버/클라이언트 개념을 모르겠다면👉** [글 보러 가기](https://mara.kim/marketing-cheat-key-3-dev-knowledge/)<br>
 **✅Braze로 캠페인 생성하는 방법이 궁금하다면👉** [글 보러가기](https://mara.kim/marketing-braze-honey-tip2-campaign-setting/)
