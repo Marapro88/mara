@@ -87,5 +87,5 @@ User Import를 정상적으로 실행하기 위한 몇 가지 주의사항이 �
 
 위 순서대로 Segment기능을 활용해서 User import를 통해 생성한 Segment를 모수로 두고 Push enabled is true, Has not uninstalled 두 가지 조건을 차례로 걸면 Reachable User와의 gap을 확인할 수 있습니다. 이번 글에서는 braze가 무엇인지, 메시지를 받을 Target user를 정의하는 Segment를 어떻게 생성하는지에 대해 알아봤습니다.
 
-다음 글에서는 braze를 통해서 캠페인을 생성하는 방법을 알아볼게요! 
+다음 글에서는 braze를 통해서 캠페인을 생성하는 방법을 알아볼게요! <br>
 오늘도 칼퇴하세요 ~!🙋‍♀️
