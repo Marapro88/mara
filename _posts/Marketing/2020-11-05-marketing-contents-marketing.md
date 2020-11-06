@@ -82,12 +82,12 @@ Mara가 영감 받았던 유튜브 콘텐츠 마케팅 사례 2가지를 소개�
 
    마케터라면 블랭크가 만드는 콘텐츠는  모두 스터디할 가치가 있다고 생각합니다. 오래된 콘텐츠이기는 하지만 블랭크에서 '훈남 남고딩'을 키워드로 제작한 '처음 꾸며본 남자들의 흔한 착각'이라는 블랙 몬스터 콘텐츠는 엄청나게 높은 클릭률을 기록했다고 합니다. '훈남 남고딩'에서 파생된 콘텐츠가 '고등학생 간지 대회'구요. 이 콘텐츠가 성공적이었던 이유는 굉장히 사소하고 개인적인 감정에 집중했기 때문이라고 생각해요. 우리는 누구나 남들에게 들키고 싶지 않은 찌질함이 있죠. 하지만 다른 사람들도 똑같은 포인트에서 찌질함을 느낀다면 이 감정은 더 이상 나만의 찌질함이 아닙니다. 공감대가 형성됩니다.
 
-   <center></center><iframe width="560" height="315" src="https://www.youtube.com/embed/e0Sl6D0NR2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+   <center><iframe width="560" height="315" src="https://www.youtube.com/embed/e0Sl6D0NR2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
    오리지널 콘텐츠에서도 블랭크의 영리한 전략이 눈에 그려지는데요.
    ![이미지1](/img/posts/13/1.JPG)
-
-콘텐츠마다 뚜렷한 고객과 문제가 있고 콘텐츠를 가장 잘 딜리버리 할 수 있는 포맷과 진행자로 맛깔나게 전달합니다. 블랭크 서비스가 직접적으로 언급되는 콘텐츠는 없지만 이를 통해 발견하는 고객 데이터와 니즈는 다른 미디어 커머스 기업이 Paid marketing으로는 절대 얻을 수 없는 자산입니다.
+   
+   콘텐츠마다 뚜렷한 고객과 문제가 있고 콘텐츠를 가장 잘 딜리버리 할 수 있는 포맷과 진행자로 맛깔나게 전달합니다. 블랭크 서비스가 직접적으로 언급되는 콘텐츠는 없지만 이를 통해 발견하는 고객 데이터와 니즈는 다른 미디어 커머스 기업이 Paid marketing으로는 절대 얻을 수 없는 자산입니다.
 
 오늘은 콘텐츠 마케팅에 대해 포스팅해보았습니다. <br>오늘도 칼퇴하세요 ~!  🙋‍♀️
 
