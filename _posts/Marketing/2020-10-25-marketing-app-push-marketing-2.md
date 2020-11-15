@@ -19,7 +19,7 @@ tags:
   - 일잘러
   - 프로이직러
   - 프로이직러 Mara
-description: 'When,what-발송시점, 메시지'
+description: 'When,What-발송시점, 메시지'
 ---
 
 안녕하세요~!<br>
