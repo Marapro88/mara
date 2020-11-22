@@ -69,12 +69,13 @@ Mara가 찾은 좋은 랩의 공통점은,
 
 *상품을 잘 팔리게 하는 ‘콘텐츠’란 무엇인가(feat. 블랭크)* [글 보러 가기👉 ](https://byline.network/2020/07/13-95/)
 
-#### 2-1. 이야기의 구조 - 궁금증 유발
+#### 2-1. 이야기의 구조(feat.긴장감 & 궁금증 유발) 
 
 이야기 구조를 통해 메시지를 긴장감있게 전달하면 유저는 몰입해서 듣습니다. 다음이 궁금하니까요. 광고 카피도 유저의 궁금증을 유발하게 써야 합니다. 다만 광고 카피는 2 문장 이상을 넘지 않기 때문에 굉장히 함축적으로 의미 전달을 해야 해요.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kRDoAXTEl84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>MOON - 멀어져가 [LIVE] 🎤 솔직히 여성알앤비 정상 찍는건 시간문제(출처:Kozypop 유튜브)</center>
 
 Mara가 구독하는 유튜브 채널 중에 Kozypop이라는 음악 채널이 있습니다. 콘텐츠도 좋지만 콘텐츠 제목이 클릭을 정말 잘 유도해서 볼 때 마다 감탄을 하는데요. (Mara 생각에는)Kozypop 채널 구독자들은 모임에서 플레이 리스트를 연결했을 때 '오, 음악 좀 듣는데?'라는 반응이 나오는 가수를 원합니다. 뻔하지 않으면서 음악 실력은 출중해야죠.
 
