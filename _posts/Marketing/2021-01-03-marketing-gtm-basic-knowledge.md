@@ -66,8 +66,7 @@ GTM은 Google Tag Manager의 약자입니다. 마케터는 웹과 앱에서 유�
 
 #### 1. GTM 구성요소 정의
 
-GTM은 크게 Variable, Trigger, Tag 라는 3가지 구성 요소로 이루어져 있습니다. 
-
+GTM은 크게 Variable, Trigger, Tag 라는 3가지 구성 요소로 이루어져 있습니다. <br>
 각 구성요소에 대한 정의를 구글에서 가져와봤습니다. 
 
 - Variable :  제품 이름, 가격 값 또는 날짜와 같이 변경 될 값에 대한 지정 값(named placeholder) 입니다. 
@@ -96,13 +95,13 @@ GTM은 기본 제공 변수(built-in variable)와 함께 사용자 정의 변수
 
 - 트리거 실행: 일부 맞춤 이벤트 
 
-- - 이벤트가 발생하고 모든 조건을 충족하는 경우 이 트리거 실행
+  - 이벤트가 발생하고 모든 조건을 충족하는 경우 이 트리거 실행
 
     *Scroll Depth Threshold 75%이상 일 때만* 
 
-![이미지1](/img/posts/15/01JPG)
+![이미지1](/img/posts/15/01.JPG)
 
-![이미지2](/img/posts/15/02JPG)
+![이미지2](/img/posts/15/02.JPG)
 
 - **Tag와 Variable** 
 
@@ -130,8 +129,7 @@ Trigger : 트리거는 클릭, 양식 제출 또는 페이지로드와 같은 �
 Trigger 유형 별 자세한 정의가 궁금하시다면 아래 구글 개발자 문서를 참조해주세요!<br>
 [Trigger 유형 구글 개발자 문서](https://support.google.com/tagmanager/topic/7679108)
 
-끝으로 GTM에서 제공하는 변수, 트리거, 태그 유형에 대해 잘 정리된 포스팅을 발견해서 공유합니다. 어떤 변수, 트리거 유형을 골라야 할 지 헷갈릴 때 찾아보면 정말 좋을 것 같아요! 
-
+끝으로 GTM에서 제공하는 변수, 트리거, 태그 유형에 대해 잘 정리된 포스팅을 발견해서 공유합니다. 어떤 변수, 트리거 유형을 골라야 할 지 헷갈릴 때 찾아보면 정말 좋을 것 같아요! <br>
 [evan-moon 블로그|GTM 뜯어보기](https://evan-moon.github.io/2020/04/19/what-is-gtm-google-tag-manager/)
 
 오늘도 칼퇴하세요 ~!  🙋‍♀️
