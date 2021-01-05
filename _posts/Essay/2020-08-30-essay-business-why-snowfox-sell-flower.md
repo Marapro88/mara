@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /business-why-snowfox-sell-flower/
+permalink: /essay-business-why-snowfox-sell-flower/
 title: '[비즈니스]SNOWFOX는 왜 꽃집을 할까?'
 date: 2020-08-30 00:00:00 +09:00
 feature: '/img/essay/05/01_T.jpg'

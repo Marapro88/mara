@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /business-petfriends-db/
+permalink: /essay-business-petfriends-db/
 title: '[비즈니스]펫프랜즈 회원가입 UI DB 관점에서 해석하기'
 date: 2020-12-13 00:00:00 +09:00
 feature: '/img/essay/13/01_T.jpg'

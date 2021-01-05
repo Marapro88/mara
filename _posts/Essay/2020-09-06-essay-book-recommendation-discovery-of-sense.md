@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /book-recommendation-discovery-of-sense/
+permalink: /essay-book-recommendation-discovery-of-sense/
 title: '[책추천]센스의 재발견, 미즈노마나부'
 date: 2020-09-06 00:00:00 +09:00
 feature: '/img/essay/06/01_T.jpg'

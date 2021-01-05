@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /serendipity/
-title: '[Essay]하트시그널로 보는 운명에 대한 고찰'
+permalink: /essay-serendipity/
+title: '[에세이]하트시그널로 보는 운명에 대한 고찰'
 date: 2020-07-01 00:00:00 +09:00
 feature: '/img/essay/02/01_T.png'
 background: '/img/essay/02/01_B.jpg'

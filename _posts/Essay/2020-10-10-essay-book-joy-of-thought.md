@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /book-recommendation-joy-of-thought/
+permalink: /essay-book-recommendation-joy-of-thought/
 title: '[책추천]생각의 기쁨, 유병욱'
 date: 2020-10-10 00:00:00 +09:00
 feature: '/img/essay/09/01_T.jpg'

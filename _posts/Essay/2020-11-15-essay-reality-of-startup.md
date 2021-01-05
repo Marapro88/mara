@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /reality-of-startup/
+permalink: /essay-reality-of-startup/
 title: '[에세이]현직 스타트업 마케터가 보는 드라마 스타트업'
 date: 2020-11-15 00:00:00 +09:00
 feature: '/img/essay/11/01_T.jpg'

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /things-I-hate/
+permalink: /essay-things-I-hate/
 title: '[에세이]내가 싫어하는 것들'
 date: 2020-09-19 00:00:00 +09:00
 feature: '/img/essay/07/01_T.jpg'

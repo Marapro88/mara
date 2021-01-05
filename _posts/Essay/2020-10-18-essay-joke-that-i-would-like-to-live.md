@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /book-recommendation-joke-that-i-would-like-to-live/
+permalink: /essay-book-recommendation-joke-that-i-would-like-to-live/
 title: '[책추천]살고싶다는 농담, 허지웅'
 date: 2020-10-18 00:00:00 +09:00
 feature: '/img/essay/10/01_T.jpg'

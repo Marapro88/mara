@@ -137,4 +137,3 @@ Trigger 유형 별 자세한 정의가 궁금하시다면 아래 구글 개발�
 [참고문서 Component of Google Tag Manager ](https://support.google.com/tagmanager/answer/6103657?hl=en)
 
 [참고문서 Variables - Tag Manager Help](https://support.google.com/tagmanager/topic/7683268?hl=en&ref_topic=3441647)
-
