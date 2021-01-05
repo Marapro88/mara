@@ -15,7 +15,9 @@ layout: default
   window.dataLayer = window.dataLayer || [];
   window.dataLayer.push({
     'event':'gtm.timer',
-    'timeSpent':'{{gtm.timerElapsedTime}}'
+    'timeSpent':'{{gtm.timerElapsedTime}}',
+    'content_name':'{{page.title}}',
+    'content_ids':'{{page.content_id}}'
   });
 </script>
 <!-- Google Tag Manager (noscript) -->
