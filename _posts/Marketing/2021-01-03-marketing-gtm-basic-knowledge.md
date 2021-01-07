@@ -79,6 +79,13 @@ Tag는 웹에서 유저 행동을 트래킹 하는 코드 조각입니다. GTM T
 
 그럼 Tag와 Trigger는 어떤 상관관계를 가질까요? <br>Tag는 이벤트 발생 순간을 감지하고 동작합니다. 이때 어떤 event에 반응할지를 정의하는 것이 Trigger입니다. 그래서 GTM에서 Tag를 셋팅할 때 반드시 Trigger를 설정하도록 UI 가 구성되어 있어요. 복잡하게 설명했지만 'Trigger가 Tag가 동작하는 시점을 정의한다'라고 이해하면 됩니다. 
 
+```css
+![Tag는Trigger가필요해](/img/posts/15/04.JPG)
+
+{:.image-caption}
+*Tag는Trigger가필요해*
+```
+
 - **Trigger와 Variable** 
 
 GTM은 기본 제공 변수(built-in variable)와 함께 사용자 정의 변수(custom variable)를 제공합니다. 변수는 원하는 정보를 Tag에 전달할 뿐만 아니라 Trigger의 필터 조건으로 활용할 수 있습니다. 예시와 함께 설명해볼게요.
