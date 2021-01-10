@@ -75,7 +75,7 @@ content_id: '1015'
 4. 데이터 영역 변수 이름에 key 에 해당하는 content_name 입력 
 5. 저장
 
-![사용자정의변수](/img/posts/17/01.JPG)
+![사용자정의변수](/img/posts/16/01.JPG)
 
 #### 3. Trigger에서 데이터 영역 변수 활용법
 
@@ -87,7 +87,7 @@ content_id: '1015'
 4. 변수 목록에서 'page.title'선택 
 5. 원하는 조건 지정 후 저장 
 
-![Trigger-사용자정의변수](/img/posts/17/02.JPG)
+![Trigger-사용자정의변수](/img/posts/16/02.JPG)
 
 #### 4. Trigger에서 Data Layer event  활용법
 
@@ -98,7 +98,7 @@ content_id: '1015'
 3. 이벤트 이름에 ViewContent 입력
 4. 트리거 실행 조건 필요에 따라 선택 후 저장 
 
-![Trigger-사용자정의변수](/img/posts/17/03.JPG)
+![Trigger-사용자정의변수](/img/posts/16/03.JPG)
 
  **맞춤 이벤트로 Trigger를 만든 후(언제 보낼지) Tag를 통해서 어디로 어떤 이벤트를 보낼지 까지를 지정 해줘야 합니다.**  예시로 GA4로 Event를 전송하는 Tag를 구성해보겠습니다. 당연히 다른 Tag 유형을 통해 FB이나 다른 광고 플랫폼으로도 전송할 수 있습니다.
 
@@ -112,7 +112,7 @@ content_id: '1015'
 8. 트리거> 트리거 선택> 'ViewContent' 선택 
 9. 저장
 
-![Tag-trigger 맞춤이벤트](/img/posts/17/04.JPG)
+![Tag-trigger 맞춤이벤트](/img/posts/16/04.JPG)
 
 여기까지 완료 후 제출하면 GA 상에서 ViewContent 이벤트를 페이지 제목 매개변수와 함께 확할 수 있습니다. 
 
@@ -127,4 +127,3 @@ content_id: '1015'
 그럼 Variable을 활용하는 것과 데이터 영역 변수를 활용하는 것은 어떤 차이점이 있을까요? 예를 들어 기본 제공 변수에 Page Path는 굳이 Data Layer로 선언해주지 않아도 GTM에서 활용이 가능하거든요. 사실 이 부분은 저도 아직 명확히 이해를 못했지만, 이해한 내용을 적어보자면 Variable은 해당 변수가 페이지에서 로드가 되는 시점까지 기다려야 하지만 Data Layer는 특정 event가 trigger 되는 순간 variable이 함께 날아오기 때문에 tag가 작동하자마자 variable이 즉시 사용 가능하다. 라는 정도로 이해했어요.  
 
 이번 포스팅은 GTM 활용을 위해 꼭 알아야 하는 Data Layer에 대해서 알아보았습니다.<br>오늘도 칼퇴하세요 ~!  🙋‍♀️
-
