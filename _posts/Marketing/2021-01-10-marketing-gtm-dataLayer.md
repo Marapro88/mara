@@ -2,9 +2,9 @@
 layout: post
 permalink: /gtm-1-data-layer/
 title: '[디지털마케팅]마케터의 GTM활용 가이드_2편'
-date: 2021-01-9 12:00:00 +09:00
-feature: '/img/posts/17/01_T.jpg'
-background: '/img/posts/17/01_B.jpg'
+date: 2021-01-09 12:00:00 +09:00
+feature: '/img/posts/16/01_T.jpg'
+background: '/img/posts/16/01_B.jpg'
 categories:
   - marketing
 tags:
@@ -22,7 +22,7 @@ tags:
   - 프로이직러
   - 프로이직러 Mara
 description: 'Data Layer 이해하기'
-content_id: '1014'
+content_id: '1015'
 ---
 
 안녕하세요~!<br>
