@@ -20,6 +20,7 @@ tags:
   - 프로이직러
   - 프로이직러 Mara
 description: 'When,What-발송시점, 메시지'
+content_id: '1011'
 ---
 
 안녕하세요~!<br>

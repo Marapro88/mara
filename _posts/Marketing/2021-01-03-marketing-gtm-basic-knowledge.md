@@ -25,7 +25,8 @@ tags:
   - 일잘러
   - 프로이직러
   - 프로이직러 Mara
-description: 'GTM 활용에 필요한 기초지식 '
+description: 'GTM 활용에 필요한 기초지식'
+content_id: '1014'
 ---
 
 안녕하세요~!<br>

@@ -20,6 +20,7 @@ tags:
   - 프로이직러
   - 프로이직러 Mara
 description: '다윗이 골리앗을 이기는 방법'
+content_id: '1012'
 ---
 
 안녕하세요~!<br>
