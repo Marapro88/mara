@@ -34,7 +34,8 @@ content_id: '1015'
 
 구글 개발자 문서에서는 데이터 영역을 아래와 같이 정의하고 있는데요. 
 
-`데이터 영역이란 웹사이트에서 태그 관리자 컨테이너로 정보를 전달할 때 사용되는 자바스크립트 개체를 말합니다. 이렇게 전달된 정보는 태그 구성 시 변수를 게재하거나 트리거를 활성화하는 데 사용됩니다. 태그 관리자는 변수, 거래 정보, 페이지 카테고리 및 페이지 곳곳에 존재하는 기타 중요 신호를 참조하는 대신 데이터 영역 소스 코드에 있는 정보를 쉽게 참조하도록 설계되었습니다. 데이터 영역은 변수를 비롯한 연결된 값을 사용해 구현되기 때문에 태그를 실행해야 할 때 변수와 값을 바로 사용할 수 있습니다.`
+> 데이터 영역이란 웹사이트에서 태그 관리자 컨테이너로 정보를 전달할 때 사용되는 자바스크립트 개체를 말합니다. 이렇게 전달된 정보는 태그 구성 시 변수를 게재하거나 트리거를 활성화하는 데 사용됩니다. 태그 관리자는 변수, 거래 정보, 페이지 카테고리 및 페이지 곳곳에 존재하는 기타 중요 신호를 참조하는 대신 데이터 영역 소스 코드에 있는 정보를 쉽게 참조하도록 설계되었습니다. 데이터 영역은 변수를 비롯한 연결된 값을 사용해 구현되기 때문에 태그를 실행해야 할 때 변수와 값을 바로 사용할 수 있습니다.
+>
 
 데이터 영역 이란 동적으로 값을 할당할 수 있는 변수를 간단한 코드로 사용자가 선언해주면 GTM에서 이를 감지하고 맞춤 이벤트, 사용자 정의 변수로 활용 가능한 기능입니다. 웹에서 아래 코드를 통해 Data Layer를 쓸 수 있어요. 
 
@@ -57,13 +58,12 @@ content_id: '1015'
 </script>
 
 -  맞춤 이벤트 이름: ViewContent
-
-- 데이터 영역 변수 이름 : content_name, content_id
+-  데이터 영역 변수 이름 : content_name, content_id
 - 사용자 정의 변수 : {{page.title}}, {{page.content_id}}
 
 이 코드를 보면서 실제로 GTM 인터페이스에서 input값이 어떻게 구성 되는 지 살펴볼게요. 
 
-[[참고문서\] Using Data Layer | Google Developer Guide](https://developers.google.com/tag-manager/devguide#datalayer)
+[[참고문서] Using Data Layer | Google Developer Guide](https://developers.google.com/tag-manager/devguide#datalayer)
 
 #### 2. Variable에서 데이터 영역 변수 활용법 
 
@@ -100,7 +100,7 @@ content_id: '1015'
 
 ![Trigger-사용자정의변수](/img/posts/16/03.JPG)
 
- **맞춤 이벤트로 Trigger를 만든 후(언제 보낼지) Tag를 통해서 어디로 어떤 이벤트를 보낼지 까지를 지정 해줘야 합니다.**  예시로 GA4로 Event를 전송하는 Tag를 구성해보겠습니다. 당연히 다른 Tag 유형을 통해 FB이나 다른 광고 플랫폼으로도 전송할 수 있습니다.
+ **맞춤 이벤트로 Trigger를 만든 후(언제 보낼지) Tag를 통해서 어디로 어떤 이벤트를 보낼지 까지 지정 해줘야 합니다.**  예시로 GA4로 Event를 전송하는 Tag를 구성해보겠습니다. 당연히 다른 Tag 유형을 통해 FB이나 다른 광고 플랫폼으로도 전송할 수 있습니다.
 
 1. 태그 > 새로 만들기 선택
 2. 태그 이름 설정
@@ -116,7 +116,7 @@ content_id: '1015'
 
 여기까지 완료 후 제출하면 GA 상에서 ViewContent 이벤트를 페이지 제목 매개변수와 함께 확할 수 있습니다. 
 
-[[참고문서\] Custom event trigger|Tag Manager Help](https://support.google.com/tagmanager/answer/7679219?hl=en&ref_topic=7679108)
+[[참고문서] Custom event trigger|Tag Manager Help](https://support.google.com/tagmanager/answer/7679219?hl=en&ref_topic=7679108)
 
 #### 5. Tag에서 데이터 영역 변수 활용법 
 
