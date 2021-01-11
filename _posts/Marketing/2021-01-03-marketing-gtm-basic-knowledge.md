@@ -122,10 +122,10 @@ Trigger : 트리거는 클릭, 양식 제출 또는 페이지로드와 같은 �
 
 만약 기본 제공 이벤트에서 원하는 이벤트가 없는 경우는 `트리거 유형 > 맞춤 이벤트` 를 활용해서 맞춤 이벤트를 셋팅 할 수 있습니다. 사용자 정의 변수와 마찬가지로 맞춤 이벤트 또한 데이터 영역 변수를 활용해서 셋팅합니다. 이 내용도 다음 글 Data Layer 활용 편에서 다룰게요! <br>
 Trigger 유형 별 자세한 정의가 궁금하시다면 아래 구글 개발자 문서를 참조해주세요!<br>
-[Trigger 유형 구글 개발자 문서](https://support.google.com/tagmanager/topic/7679108)
+[✅Trigger 유형 구글 개발자 문서](https://support.google.com/tagmanager/topic/7679108)
 
 끝으로 GTM에서 제공하는 변수, 트리거, 태그 유형에 대해 잘 정리된 포스팅을 발견해서 공유합니다. 어떤 변수, 트리거, 태그를 골라야 할지 헷갈릴 때 찾아보면 정말 유용할 것 같아요! <br>
-[evan-moon 블로그|GTM 뜯어보기](https://evan-moon.github.io/2020/04/19/what-is-gtm-google-tag-manager/)
+[✅evan-moon 블로그|GTM 뜯어보기](https://evan-moon.github.io/2020/04/19/what-is-gtm-google-tag-manager/)
 
 오늘도 칼퇴하세요 ~!  🙋‍♀️
 

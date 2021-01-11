@@ -52,7 +52,7 @@ content_id: '1015'
 
 이 코드를 보면서 실제로 GTM 인터페이스에서 input값이 어떻게 구성 되는 지 살펴볼게요. 
 
-[[참고문서] Using Data Layer | Google Developer Guide](https://developers.google.com/tag-manager/devguide#datalayer)
+[[참고문서] Using Data Layer-Google Developer Guide](https://developers.google.com/tag	-manager/devguide#datalayer)
 
 #### 2. Variable에서 Data Layer 활용법 
 
@@ -105,7 +105,7 @@ content_id: '1015'
 
 여기까지 완료 후 제출하면 GA 상에서 ViewContent 이벤트를 페이지 제목 매개변수와 함께 확할 수 있습니다. 
 
-[[참고문서] Custom event trigger|Tag Manager Help](https://support.google.com/tagmanager/answer/7679219?hl=en&ref_topic=7679108)
+[[참고문서] Custom event trigger-Tag Manager Help](https://support.google.com/tagmanager/answer/7679219?hl=en&ref_topic=7679108)
 
 #### 5. Tag에서 Data Layer 활용법 
 
