@@ -41,12 +41,13 @@ content_id: '1014'
 - GTM 구성요소 간의 상관관계
 - GTM 내의 Event
 
-1.GTM Data Layer
+1.[GTM Data Layer](https://mara.kim/gtm-1-data-layer/)
 
-- Data Layer(데이터 영역변수)정의
-- Variable에서 데이터 영역 변수 활용법
-- Trigger에서 데이터 영역 변수 활용법
-- Tag에서 데이터 영역 변수 활용법
+- Data Layer 정의
+- Variable에서 Data Layer 활용법
+- Trigger에서 Data Layer 활용법
+- Trigger에서 맞춤 이벤트 활용법
+- Tag에서 Data Layer 활용법
 - Variable vs Data Layer
 
 2.GTM 미리보기 활용 꿀팁
