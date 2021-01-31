@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /gtm-1-data-layer/
+permalink: /gtm-2-data-layer/
 title: '[디지털마케팅]마케터의 GTM활용 가이드_2편'
 date: 2021-01-09 12:00:00 +09:00
 feature: '/img/posts/16/01_T.jpg'
@@ -43,7 +43,7 @@ content_id: '1015'
 
 코드를 이해하려면 약간의 자바스크립트 지식이 필요한데요. 한번 찬찬히 봐볼게요. Data Layer는 Key/value 쌍으로 구성되어 있습니다. dataLayer = [{ }]; 안에 `:` 앞에 오는 값이 key가 되고 `:` 뒤에 오는 값이 value가 됩니다. Key는 공통적으로 활용할 수 있는 매개변수의 이름이 되고 Value는 변하는 동적값이나 고정값을 할당할 수 있는 매개변수의 값이 됩니다.(변수명을 {{' '}}로 감싸주면 동적 값이 됩니다🙂) 위의 코드를 응용해서 유저가 페이지 조회를 했을 때 맞춤 이벤트와 2가지 매개 변수를 전달하는 데이터 영역 변수를 작성하면 아래와 같습니다.
 
-​```
+```
 <script>
 dataLayer = [{
     'event': 'ViewContent',
@@ -51,7 +51,7 @@ dataLayer = [{
     'content_id': '{{page.content_id}}'
   }];
 </script>
-​```
+```
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /gtm-2-preview-debugging/
+permalink: /gtm-3-preview-debugging/
 title: '[디지털마케팅]마케터의 GTM활용 가이드_3편'
 date: 2021-01-16 12:00:00 +09:00
 feature: '/img/posts/17/01_T.jpg'

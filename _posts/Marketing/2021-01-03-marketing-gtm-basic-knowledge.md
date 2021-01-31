@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /gtm-0-basic-knowledge/
+permalink: /gtm-1-basic-knowledge/
 title: '[디지털마케팅]마케터의 GTM활용 가이드_1편'
 date: 2021-01-03 12:00:00 +09:00
 feature: '/img/posts/15/01_T.jpg'

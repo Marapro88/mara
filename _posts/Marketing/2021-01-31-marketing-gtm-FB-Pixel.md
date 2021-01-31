@@ -96,7 +96,7 @@ GTM으로 추적 Tag를 설치하기 전에 위에서 본 FB Event Manager에서
 
 #### 5. GTM FB Pixel base Tag 추가하기 
 
-GTM에서 FB Tag를 설치하는 과정은 크게 2가지로 나뉩니다. 3-2에서 설명한 페이스북 픽셀 기본 코드를 4번 FB Event Manager에서 다운받아서 GTM에서 기본 태그를 하나 만들고 모든 페이지로 트리거를 걸어두면 기본 픽셀 태그가 이벤트 정보를 받아서 FB Pixel로 보내줘요. GA를 떠올려보면 GA 기본 Tag를 설치한 다음 추적하는 이벤트 별로 GA Tag를 하나씩 설치해줬었잖아요? 동일한 과정이에요. (혹시 기억 안 난다면?! [여기](https://mara.kim/gtm-3-event-utilize/) 클릭) 자세한 설치 방법은 아래 포스팅을 참고해주세요! 👇👇
+GTM에서 FB Tag를 설치하는 과정은 크게 2가지로 나뉩니다. 3-2에서 설명한 페이스북 픽셀 기본 코드를 4번 FB Event Manager에서 다운받아서 GTM에서 기본 태그를 하나 만들고 모든 페이지로 트리거를 걸어두면 기본 픽셀 태그가 이벤트 정보를 받아서 FB Pixel로 보내줘요. GA를 떠올려보면 GA 기본 Tag를 설치한 다음 추적하는 이벤트 별로 GA Tag를 하나씩 설치해줬었잖아요? 동일한 과정이에요. (혹시 기억 안 난다면?! [여기](https://mara.kim/gtm-4-event-utilize/) 클릭) 자세한 설치 방법은 아래 포스팅을 참고해주세요! 👇👇
 [GTM으로 FB Pixel설치하기](https://nohze.com/mkt/gtm04_GTM_Facebook/)
 
 #### 6. GTM FB Pixel Evant Tag 추가하기 
