@@ -74,16 +74,13 @@ content_id: '1018'
 3. Facebook event 코드 
 
    /script tag 바로 위에 add to cart 이벤트 코드를 설치한 모습입니다. 
-
-   fbq('track', 'Event 명');
-
+fbq('track', 'Event 명');
    add to cart 자리에 추적하려는 Event 명을 입력하면 됩니다. 
 
 4. Facebook properties코드
 
    fbq('track', 'Event 명', {properties 이름 : properties 값, properties 2이름 : properties 2 값 });
-
-   Event와 함께 변수(FB에서는 Properties로 부름)를 전달하고 싶은 경우 event명 뒤에 {} 에 Key, Value 쌍을 넣어주면 됩니다. Data Layer에서 변수 삽입했던 것과 동일합니다. 
+Event와 함께 변수(FB에서는 Properties로 부름)를 전달하고 싶은 경우 event명 뒤에 {} 에 Key, Value 쌍을 넣어주면 됩니다. Data Layer에서 변수 삽입했던 것과 동일합니다. 
 
 2+3+4번이 이벤트를 추적하기 위한 Pixel 코드입니다. 위의 예시처럼 수동으로 직접 코드를 삽입한다고 하면 이벤트가 발생하는 페이지마다 Pixel코드를 심어줘야 해요. 그런데 마케터가 직접 코드에 손을 대는 것은 어려운 일이죠. 😥 FB에서는 마케터들을 위해서 직접 코드를 수정하지 않고도 event를 전송할 수 있는 기능도 제공하고 있어요! 다음에서 알아볼게요. 
 
@@ -91,12 +88,12 @@ content_id: '1018'
 
 GTM으로 추적 Tag를 설치하기 전에 위에서 본 FB Event Manager에서 Base Pixel코드를 다운받고 웹에서 event를 정의해주는 선행 작업을 해줘야 합니다. 여기서 포인트는 FB Event Setup Tool을 활용하면 코드 작성 또는 GTM 이벤트 태그 삽입 없이도 버튼 클릭이나 특정 페이지 url에 대한 이벤트를 바로 추가할 수 있다는 거예요. (아직은 Standard Event만 사용할 수 있데요!) 즉 UI에서 추적하고 싶은 이벤트를 실행시키고 저장하기만 하면 픽셀로 이벤트가 전송된다는 말씀! 간편하죠?
 
-이 내용은 아래 동영상을 보시면서 따라해보세요! 👇👇
+이 내용은 아래 동영상을 보시면서 따라해보세요! 👇👇<br>
 [How to Setup Facebook Custom Conversion Events](https://youtu.be/GRJS4eH_diE)
 
 #### 5. GTM FB Pixel base Tag 추가하기 
 
-GTM에서 FB Tag를 설치하는 과정은 크게 2가지로 나뉩니다. 3-2에서 설명한 페이스북 픽셀 기본 코드를 4번 FB Event Manager에서 다운받아서 GTM에서 기본 태그를 하나 만들고 모든 페이지로 트리거를 걸어두면 기본 픽셀 태그가 이벤트 정보를 받아서 FB Pixel로 보내줘요. GA를 떠올려보면 GA 기본 Tag를 설치한 다음 추적하는 이벤트 별로 GA Tag를 하나씩 설치해줬었잖아요? 동일한 과정이에요. (혹시 기억 안 난다면?! [여기](https://mara.kim/gtm-4-event-utilize/) 클릭) 자세한 설치 방법은 아래 포스팅을 참고해주세요! 👇👇
+GTM에서 FB Tag를 설치하는 과정은 크게 2가지로 나뉩니다. 3-2에서 설명한 페이스북 픽셀 기본 코드를 4번 FB Event Manager에서 다운받아서 GTM에서 기본 태그를 하나 만들고 모든 페이지로 트리거를 걸어두면 기본 픽셀 태그가 이벤트 정보를 받아서 FB Pixel로 보내줘요. GA를 떠올려보면 GA 기본 Tag를 설치한 다음 추적하는 이벤트 별로 GA Tag를 하나씩 설치해줬었잖아요? 동일한 과정이에요. (혹시 기억 안 난다면?! [여기](https://mara.kim/gtm-4-event-utilize/) 클릭) 자세한 설치 방법은 아래 포스팅을 참고해주세요! 👇👇<br>
 [GTM으로 FB Pixel설치하기](https://nohze.com/mkt/gtm04_GTM_Facebook/)
 
 #### 6. GTM FB Pixel Evant Tag 추가하기 
@@ -125,7 +122,7 @@ Standard event 라면 FB Event Setup Tool을 활용해 이벤트 Pixel로 전송
 
 3. 태그 > 맞춤 HTML> FB Add to cart 이벤트 코드 추가 
 
- [참고문서 FB Standard event code list](https://www.facebook.com/business/help/402791146561655?id=1205376682832142)
+ [[참고문서] FB Standard event code list](https://www.facebook.com/business/help/402791146561655?id=1205376682832142)
 
 **[Product Id 변수 추가]**
 
@@ -142,7 +139,7 @@ Standard event 라면 FB Event Setup Tool을 활용해 이벤트 Pixel로 전송
 
 ![GTM FB Pixel Tag](/img/posts/19/03.png)
 
-[참고문서 Required Facebook Pixel Events and Parameters for Daynamic Ads](https://www.facebook.com/business/help/606577526529702)
+[[참고문서] Required Facebook Pixel Events and Parameters for Daynamic Ads](https://www.facebook.com/business/help/606577526529702)
 
 #### 7. Event manager에서 Custom Conversion 지정
 
@@ -153,7 +150,7 @@ Event를 셋팅하면 Custom event를 Conversion으로 지정해서 tracking 과
 
 이렇게 custom converison을 만들면 캠페인 목표를 전환으로 설정했을 때 conversion으로 ScrollTracking_75% 를 사용할 수 있습니다. 
 
-[참고문서 Facebook Custom Conversion](https://www.jonloomer.com/facebook-custom-conversions/)
+[[참고문서] Facebook Custom Conversion](https://www.jonloomer.com/facebook-custom-conversions/)
 
 [번외]앱 이벤트 셋팅 
 
