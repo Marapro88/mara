@@ -28,7 +28,7 @@ tags:
   - 일잘러
   - 프로이직러
   - 프로이직러 Mara
-description: 'GTM 활용해서 FB Pixel 설치 및 이벤트, 파라미터 Tag 설치하기'
+description: 'GTM 활용해서 FB Pixel로 Tag 전송하기'
 content_id: '1018'
 ---
 
@@ -57,7 +57,7 @@ content_id: '1018'
 
    Conversion를 활용해 광고 성과 추적 및 최적화 목표로 사용할 수 있습니다. GA Conversion과 동일한 개념입니다.
 
-#### 3, FB Pixel Code 뜯어보기 
+#### 3, FB Pixel Code 구조 이해하기
 
 ![FB Pixel code](/img/posts/19/01.png)
 
@@ -91,7 +91,7 @@ GTM으로 추적 Tag를 설치하기 전에 위에서 본 FB Event Manager에서
 이 내용은 아래 동영상을 보시면서 따라해보세요! 👇👇<br>
 [How to Setup Facebook Custom Conversion Events](https://youtu.be/GRJS4eH_diE)
 
-#### 5. GTM FB Pixel base Tag 추가하기 
+#### 5. GTM FB Pixel Base Tag 추가하기 
 
 GTM에서 FB Tag를 설치하는 과정은 크게 2가지로 나뉩니다. 3-2에서 설명한 페이스북 픽셀 기본 코드를 4번 FB Event Manager에서 다운받아서 GTM에서 기본 태그를 하나 만들고 모든 페이지로 트리거를 걸어두면 기본 픽셀 태그가 이벤트 정보를 받아서 FB Pixel로 보내줘요. GA를 떠올려보면 GA 기본 Tag를 설치한 다음 추적하는 이벤트 별로 GA Tag를 하나씩 설치해줬었잖아요? 동일한 과정이에요. (혹시 기억 안 난다면?! [여기](https://mara.kim/gtm-4-event-utilize/) 클릭) 자세한 설치 방법은 아래 포스팅을 참고해주세요! 👇👇<br>
 [GTM으로 FB Pixel설치하기](https://nohze.com/mkt/gtm04_GTM_Facebook/)
@@ -141,7 +141,7 @@ Standard event 라면 FB Event Setup Tool을 활용해 이벤트 Pixel로 전송
 
 [[참고문서] Required Facebook Pixel Events and Parameters for Daynamic Ads](https://www.facebook.com/business/help/606577526529702)
 
-#### 7. Event manager에서 Custom Conversion 지정
+#### 7. FB Event Manager에서 Custom Conversion 지정
 
 Event를 셋팅하면 Custom event를 Conversion으로 지정해서 tracking 과 광고 최적화를 할 수 있습니다. custom event 를 custom conversion과 mapping을 시켜야지만 광고 추적과 최적화가 가능합니다. 
 
