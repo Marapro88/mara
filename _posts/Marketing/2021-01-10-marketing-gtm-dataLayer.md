@@ -28,7 +28,9 @@ content_id: '1015'
 안녕하세요~!<br>
 프로이직러 Mara입니다.
 
-지난 포스팅에서 GTM 기초지식에 대해 살펴보았습니다. 이번 포스팅에서는 GTM을 100% 활용하기 위해 꼭 알아야 하는 개념인 'Data Layer'에 대해 알아보겠습니다. GTM 이 무엇인지부터 알고 싶다면 [여기](https://mara.kim/gtm-0-basic-knowledge/)를 클릭해주세요.
+지난 포스팅에서 GTM 기초지식에 대해 살펴보았습니다. 이번 포스팅에서는 GTM을 100% 활용하기 위해 꼭 알아야 하는 개념인 'Data Layer'에 대해 알아보겠습니다. (참고로 이번 포스팅을 이해하려면 GTM에 대한 기초지식이 필요해요. [여기](https://mara.kim/gtm-1-basic-knowledge/)를 클릭해주세요. 😀
+
+[TOC]
 
 #### 1. Data Layer(데이터 영역)정의
 

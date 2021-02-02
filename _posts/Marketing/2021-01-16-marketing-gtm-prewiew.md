@@ -27,11 +27,13 @@ content_id: '1016'
 이전 포스팅에서 GTM의 정의, 기본적인 지식과 DataLayer 개념까지 알아보았는데요. <br>
 복습이 필요하다면 아래 포스팅을 참고해주세요. 
 
-[마케터의 GTM활용 가이드_1편 GTM 활용에 필요한 기초지식](https://mara.kim/gtm-0-basic-knowledge/)
+[마케터의 GTM활용 가이드_1편 GTM 활용에 필요한 기초지식](https://mara.kim/gtm-1-basic-knowledge/)
 
-[마케터의 GTM활용 가이드_2편 DataLayer이해하기](https://mara.kim/gtm-1-data-layer/)
+[마케터의 GTM활용 가이드_2편 DataLayer이해하기](https://mara.kim/gtm-2-data-layer/)
 
 GTM으로 Tag를 셋팅했다면 GTM의 미리보기로 디버깅을 할 차례입니다. 개발자들은 열심히 개발해서 배포했는데 이슈가 발생하면 '버그가 생겼다'라고 표현하는데요. GTM 미리보기를 사용하면 GTM에서 만든 Tag가 정상 작동하는지 미리 보고 버그를 디버깅할 수 있습니다. 앱의 Test 서버 같은 역할을 한다고 이해하시면 돼요! 
+
+[TOC]
 
 #### 1. GTM 미리보기 구조 이해하기 
 

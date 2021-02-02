@@ -27,6 +27,8 @@ content_id: '1017'
 프로이직러 Mara입니다.
 이번 포스팅에서는 GTM에서 GA로 전송한 데이터를 활용하는 방법에 대해 알아보겠습니다.
 
+[TOC]
+
 #### 1. GA4 All Event
 
 GTM에서 Tag를 통해 event를 전송하면 `GA4 > Events> All Events`에 **자동으로 연동**됩니다. (편리하죠?😀) 실시간은 아니고 24시간 후에 들어옵니다. Event와 관련된 configuration 기능을 하는 공간이 All event입니다. 여기서 제공하는 기능은 크게 3가지입니다.
