@@ -38,42 +38,15 @@ content_id: '1014'
 
 1.GTM 기초
 
-- GTM이란?
-- GTM 구성요소 정의
-- GTM 구성요소 간의 상관관계
-- GTM의 Event(feat.Trigger)
+[TOC]
 
 2.[GTM Data Layer](https://mara.kim/gtm-2-data-layer/)
 
-- Data Layer 정의
-- Variable에서 Data Layer 활용법
-- Trigger에서 Data Layer 활용법
-- Trigger에서 맞춤 이벤트 활용법
-- Tag에서 Data Layer 활용법
-- Variable vs Data Layer
-
 3.[GTM 미리보기로 디버그하기](https://mara.kim/gtm-3-preview-debugging/)
-
-- GTM 미리보기 구조
-- GTM 미리보기 3가지 Built-in Event
-  - Container Loaded/ DOM Ready/ Window Loaded
-- GTM 미리보기로 Tag 디버깅하기
 
 4.[GTM-GA 이벤트&변수 연동](https://mara.kim/gtm-4-event-utilize/)
 
-- GA4 All Event 기능
-- GA4 Conversion
-- GA4 Analytics에서 Segment 추가하기
-
 5.[GTM 활용해서 FB Pixel 로 Tag 전송하기](https://mara.kim/gtm-5-fb-pixel/)
-
-- FB Pixel이란?
-- FB 이벤트의 종류
-- FB Pixel Code 구조 이해하기
-- FB Event Manager 활용법
-- GTM FB Pixel Base Tag 추가하기
-- GTM FB Pixel Event Tag 추가하기
-- FB Event Manager에서 Custom Conversion 지정
 
 
 
