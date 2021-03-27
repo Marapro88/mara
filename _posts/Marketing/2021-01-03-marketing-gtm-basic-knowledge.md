@@ -38,8 +38,6 @@ content_id: '1014'
 
 1.GTM 기초
 
-[TOC]
-
 2.[GTM Data Layer](https://mara.kim/gtm-2-data-layer/)
 
 3.[GTM 미리보기로 디버그하기](https://mara.kim/gtm-3-preview-debugging/)
