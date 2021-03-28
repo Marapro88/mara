@@ -15,7 +15,7 @@ tags:
   - 크로플
   - MZ세대
   - 빵지순례
-description: 세들러 하우스 갔다가 줄 서본 썰'
+description: 세들러 하우스 갔다가 줄 서본 썰
 content_id: '1014'
 ---
 
