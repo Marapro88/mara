@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /essay-what-is-my-clients-context/
-title: '[에세이]바나프레소와 고객 맥락'
+title: '[가게에서 배우는 마케팅]바나프레소와 고객 맥락'
 date: 2021-04-04 00:00:00 +09:00
 feature: '/img/essay/16/01_T.jpg'
 background: '/img/essay/16/01_B.jpg'

@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /essay-why-so-serious-bbang/
-title: '[에세이]MZ 세대는 왜 이렇게 빵에 진심일까?'
+title: '[가게에서 배우는 마케팅]MZ 세대는 왜 이렇게 빵에 진심일까?'
 date: 2020-12-19 00:00:00 +09:00
 feature: '/img/essay/15/01_T.jpg'
 background: '/img/essay/15/01_B.jpg'
