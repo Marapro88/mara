@@ -29,8 +29,7 @@ content_id: '1017'
 반면에 제 영역에 대해서는 심각하게 예민해지고 누가 시키지 않아도 끝까지 파고드는 편입니다. 그런데 최근 제 영역에서 새로운 종류의 감정을 느껴서 오늘은 그 이야기를 해 보려고요. 지인들을 만나면 종종 스타트업, 디지털 마케팅과 관련된 이야기를 나누는데요. 업계를 잘 모르는 분들이 제가 보기에 틀린 정보를 맞는 것처럼 이야기할 때 굉장히 불쾌하고 고쳐주고 싶더라구요. 그리고 그러한 감정이 거기에서 그치지 않고 한동안 이어졌어요. 한 번도 이런 감정을 느껴본 적이 없는 데 도대체 이 감정의 원인이 무엇일까 궁금했습니다. 한동안 답을 찾지 못하다가 아래 영상을 우연히 보고 그 원인을 알게 되었어요.
 
 <center>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Lc0g_HKZUqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lc0g_HKZUqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 감정의 끝을 따라가 보니 알량한 자존심 때문이었던 것 같아요.<br>
 내가 맞다는 것을 증명하고 싶은 마음.<br>
