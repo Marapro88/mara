@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /essay-what-a-nice-cafe/
-title: '[에세이]시시해진다는 건 어쩌면 좋은 일일지도 몰라'
+title: '[가게에서 배우는 마케팅] GRAY GRISTMILL'
 date: 2021-07-09 00:00:00 +09:00
 feature: '/img/essay/19/01_T.jpg'
 background: '/img/essay/19/01_B.jpg'
