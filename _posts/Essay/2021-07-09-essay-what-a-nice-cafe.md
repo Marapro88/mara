@@ -49,4 +49,6 @@ content_id: '1018'
 
 얼른 날씨가 추워져서 따뜻한 라떼 마시러 가고 싶네요. 가로수길 왔다가 맛있는 커피+좋은 서비스를 경험하고 싶으시다면 그레이 그리스밀 방문해보세요.
 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/A3SRZBoODNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 오늘도 행복하세요~! 🙋‍♀️
