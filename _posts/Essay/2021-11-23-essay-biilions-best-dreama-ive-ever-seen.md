@@ -42,4 +42,4 @@ content_id: '1021'
 아직 안보셨다면 너무 부럽내요.
 오늘도 행복하세요! 🙋‍♀️
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UbTvd1m6nmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="784" height="442" src="https://www.youtube.com/embed/UbTvd1m6nmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
