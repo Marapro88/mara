@@ -4,7 +4,7 @@ permalink: /essay-billions-best-drama-ive-ever-seen/
 title: '[넷플릭스미드추천]빌리언즈'
 date: 2021-09-26 00:00:00 +09:00
 feature: '/img/essay/22/01_T.jpg'
-background: '/img/essay/22/01_B.png'
+background: '/img/essay/22/01_B.jpg'
 categories:
   - essay
 tags:
