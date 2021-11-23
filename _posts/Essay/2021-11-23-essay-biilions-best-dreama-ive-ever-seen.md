@@ -15,7 +15,7 @@ tags:
   - Billions 
   - 넷플릭스 미드추천
 description: 역사상 가장 섹시한 미드
-content_id: '1020'
+content_id: '1021'
 ---
 
 안녕하세요?<br>프로이직러 Mara입니다.
@@ -42,6 +42,6 @@ content_id: '1020'
 아직 안보셨다면 너무 부럽내요. 
 오늘도 행복하세요! 🙋‍♀️
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UbTvd1m6nmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UbTvd1m6nmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
