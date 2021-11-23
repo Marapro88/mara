@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /career--how-to-be-a-performance-marketer/
+permalink: /career-how-to-be-a-performance-marketer/
 title: '연봉 앞자리를 바꾸는 퍼포먼스마케터 이직노하우'
 date: 2021-11-23 12:00:00 +09:00
 feature: '/img/career/06/01_T.png'
